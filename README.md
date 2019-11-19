@@ -10,7 +10,7 @@ This repository will be updated every major MER deployment where metadata is cha
 
 ## What's included
 
-- Data Elements
+- Data Elements and Data Element Groups
 - Category Combos and all Child Objects
 - Datasets and Data Entry Forms
 - Cleaning Favorites and Cleaning Indicators (When Availalbe)
