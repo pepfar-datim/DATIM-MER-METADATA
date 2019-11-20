@@ -13,7 +13,7 @@ This repository will be updated every major MER deployment where metadata is cha
 - Data Elements and Data Element Groups
 - Category Combos and all Child Objects
 - Datasets and Data Entry Forms
-- Cleaning Favorites and Cleaning Indicators (When Availalbe)
+- Cleaning Favorites and Cleaning Indicators (When Available)
 - Validation Rules
 
 ## Support
