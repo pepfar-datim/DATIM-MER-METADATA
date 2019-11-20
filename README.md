@@ -8,7 +8,7 @@ You are still required to turn in your MER Targets and Results on time regardles
 
 This repository will be updated every major MER deployment where metadata is changed.
 
-## What's included
+## What's Included
 
 - Data Elements and Data Element Groups
 - Category Combos and all Child Objects
