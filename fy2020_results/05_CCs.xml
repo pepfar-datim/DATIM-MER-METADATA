@@ -1,0 +1,799 @@
+<?xml version='1.0' encoding='utf-8'?>
+<metadata>
+  <system>
+    <id>test.datim.org</id>
+    <rev>eeb5cb9</rev>
+    <version>2.30</version>
+    <date>2019-12-27T19:05:42.666</date>
+  </system>
+  <categoryCombos>
+    <categoryCombo name="Age (0-17, 5) and Sex" id="rJkYyZJ5U4O">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <categories>
+        <category id="Gs97EJ6v2Pu"/>
+        <category id="SEOZOio7f7o"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (0-4, 3) and Sex" id="bBenCN44cjV">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <categories>
+        <category id="Y0AHPr2tq0B"/>
+        <category id="SEOZOio7f7o"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (0-50+-uk, 13) and Sex (Male)" id="j8nRtnRu38x">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="HhQSSKwoeuI"/>
+        <category id="TBpeHECy96a"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (10-29, 4), Sex (Female), DREAMS Time and Completion v2" id="eNkifwug0iS">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="gHIIEIjio4o"/>
+        <category id="z5yJfr6O3w8"/>
+        <category id="ma7jsi39tUX"/>
+        <category id="NPxLhFcz2ji"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;10-50+-uk, 10) and Sex" id="Ebuc5weoYGC">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="oJXfCG5jnog"/>
+        <category id="SEOZOio7f7o"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (10-50+-uk, 10) and Sex" id="Auz9G1lgPSX">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="HUOw5UkDg4V"/>
+        <category id="SEOZOio7f7o"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;10-50+-uk, 10) and Sex (Female)" id="AoWbpQLbBBp">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="oJXfCG5jnog"/>
+        <category id="z5yJfr6O3w8"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;10-50+-uk, 10), New Existing ART, Sex (Female) and HIV Status (Positive)" id="rFarVcEuKlX">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="oJXfCG5jnog"/>
+        <category id="FK63UgOIH2K"/>
+        <category id="z5yJfr6O3w8"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;10-50+-uk, 10), Sex and Violence Service Type" id="mFvb8LsrlS5">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="oJXfCG5jnog"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="GPZcq6IewcP"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;10-50+-uk, 10), Sex (Female) and Known Positive / New Pos or Neg / Recent Neg" id="CwdpUfwQJ98">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="oJXfCG5jnog"/>
+        <category id="z5yJfr6O3w8"/>
+        <category id="dzKJC5Rtwcn"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (10-50+-uk, 10) Sex w/ Unknown and HIV Self Test Kit Type" id="E4YtHakxPTg">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="HUOw5UkDg4V"/>
+        <category id="cUssOiT9cHY"/>
+        <category id="rGaFjr6CA1G"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;1,1-4-uk, 2), Sex and Result" id="YsrFQ6Ge42q">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="XUBQZatxY5b"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="FokGv0LCTYj"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;1-18+-uk, 6), Sex and Program Status" id="yrHtiegtNew">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="McLoJJs4bki"/>
+        <category id="Jzq9hxQJjlS"/>
+        <category id="SEOZOio7f7o"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;1-50+-uk, 12) and Sex" id="KD7et9pZCmw">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="hDomCfJSxiQ"/>
+        <category id="SEOZOio7f7o"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;1-50+-uk, 12) and Sex (Male)" id="eTE8zgHoKgA">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="hDomCfJSxiQ"/>
+        <category id="TBpeHECy96a"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;1-50+-uk, 12), HIV Status (Inc Unknown) and Sex (Male)" id="F00w1bHIVma">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="hDomCfJSxiQ"/>
+        <category id="kZfd98pN3ad"/>
+        <category id="TBpeHECy96a"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;1-50+-uk, 12), Sex and HIV Status (Positive)" id="HZtrVMo9031">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>true</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="hDomCfJSxiQ"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;1-50+-uk, 12), Sex and Known Positive / New Pos or Neg" id="Ynr2qtl6WB9">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="hDomCfJSxiQ"/>
+        <category id="L567Pvhn2WC"/>
+        <category id="SEOZOio7f7o"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;1-50+-uk, 12), Sex and Test Results" id="qKePLJSRLgS">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="hDomCfJSxiQ"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="FokGv0LCTYj"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;1-50+-uk, 12), Sex (Female) and Test Results" id="rcyH8qsC2AZ">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="hDomCfJSxiQ"/>
+        <category id="z5yJfr6O3w8"/>
+        <category id="FokGv0LCTYj"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;1-50+-uk, 12), Sex, New Existing ART and HIV Status (Positive)" id="vyCxt8An698">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="hDomCfJSxiQ"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="FK63UgOIH2K"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;1-50+-uk, 12), Sex, No Clinical Contact Cause of Death and HIV Status (Positive)" id="OBcCcggxy2M">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="UMr1GucUTpm"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="hDomCfJSxiQ"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;1-50+-uk, 12), Sex, No Contact Outcome and HIV Status (Positive)" id="DJQBaK3fjmQ">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="hDomCfJSxiQ"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="uUE1l93wsgN"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;1-50+-uk, 12), Sex, Test Indication and HIV Status (Positive)" id="bL9OWNHMVKy">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="hDomCfJSxiQ"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="XAbPTrBC8Dg"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;15,15+-uk, 2) and Sex w/ Unknown" id="CS9bQtxhawH">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <categories>
+        <category id="fPrE6fiFb5f"/>
+        <category id="cUssOiT9cHY"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;15,15+-uk, 2), Sex and HIV Status (Positive)" id="kLall2yxA2W">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="fPrE6fiFb5f"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;15,15+-uk, 2), Sex, and Results" id="MXCe0fgn0sO">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <categories>
+        <category id="fPrE6fiFb5f"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="FokGv0LCTYj"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;15,15+-uk, 2), Sex, ARV Dispensing Quantity and HIV Status (Positive)" id="AzVwyP04A4q">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="fPrE6fiFb5f"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="ogKA6IdTRHv"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;15,15+-uk, 2), Sex (Female) and Results" id="YpsP0Lf2rqe">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="fPrE6fiFb5f"/>
+        <category id="z5yJfr6O3w8"/>
+        <category id="FokGv0LCTYj"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;15,15+-uk, 2), Sex, New Existing ART and HIV Status (Positive)" id="QxGJU5VqkS4">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="fPrE6fiFb5f"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="FK63UgOIH2K"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;15,15+-uk, 2), Sex, TB Screen Result, New Existing ART and HIV Status (Positive)" id="isNiYirMRYt">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="fPrE6fiFb5f"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="lmf1Sn72E2b"/>
+        <category id="FK63UgOIH2K"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;15,15+-uk, 2), Sex, Test Indication w/ Undocumented, and HIV Status (Positive)" id="U3rnsZ7Ajbz">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="fPrE6fiFb5f"/>
+        <category id="XAbPTrBC8Dg"/>
+        <category id="cUssOiT9cHY"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;15-30+-uk, 3) and Sex (Male)" id="U7JH0RDQvXn">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="cmzvfWNhGN3"/>
+        <category id="TBpeHECy96a"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (15-50+-uk, 8) and Sex" id="USniQRTQRnY">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="d4317wJ77uc"/>
+        <category id="SEOZOio7f7o"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (15-50+-uk, 8), Sex, Confirmed Recency Result and HIV Status (Positive)" id="cELOAR1EVPl">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="d4317wJ77uc"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="d58Pw4sbhp7"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (15-50+-uk, 8), Sex (Female), HIV Status (Positive), Cervical Cancer Result and Visit" id="nCcLK0df5wY">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="d4317wJ77uc"/>
+        <category id="z5yJfr6O3w8"/>
+        <category id="bUVkiB6QLYZ"/>
+        <category id="MLEfaWipx86"/>
+        <category id="lOVd9kVjsfH"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (15-50+-uk, 8), Sex (Female), HIV Status (Positive), Cervical Cancer Treatment Type and Visit" id="h5rXMDBAq2P">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="d4317wJ77uc"/>
+        <category id="z5yJfr6O3w8"/>
+        <category id="bUVkiB6QLYZ"/>
+        <category id="MLEfaWipx86"/>
+        <category id="hZrOaXxg0N3"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (15-50+-uk, 8), Sex, RTRI Result and HIV Status (Positive)" id="w7N8S1NoezH">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="d4317wJ77uc"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="dJbqqKoGX2M"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;18-50+, 4) and Sex" id="yvqaQECYuaF">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <categories>
+        <category id="yQVjobZSlsl"/>
+        <category id="SEOZOio7f7o"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (5-17, 3) and Sex" id="kW9yFw0SZNZ">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <categories>
+        <category id="Z87jLURLEk9"/>
+        <category id="SEOZOio7f7o"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;5-17, 4) and Sex" id="v90bWujcsAc">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <categories>
+        <category id="W8TMUeFeIhN"/>
+        <category id="SEOZOio7f7o"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Age (6mo-4, 2) and Sex" id="lmFqxyPQfyl">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <categories>
+        <category id="HybiYBCmNeK"/>
+        <category id="SEOZOio7f7o"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="default" id="bjDvmb4bfuf">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <categories>
+        <category id="GLevLNI9wkl"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Dispensed ARV Bottles" id="A4WcHzTutNb">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="Xwu76jxPuy9"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Geo Location" id="jd1gXOEDCn9">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <categories>
+        <category id="f9ktZK1P0t2"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="HIV Status (Inc Undisclosed and Test Not Required)" id="kUL0UnmrAP6">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="ZiayCMcQLhM"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="HIV Test Status" id="KUSyYUE9dBf">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="iXdI2I0BcmZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Infant Age (2,2-12)" id="hVswD64LbtW">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <categories>
+        <category id="tX6vva5HMZ6"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Infant Age (2,2-12) and HIV Status (Positive)" id="YlJCrpXkZV0">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="tX6vva5HMZ6"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Infant Age (2,2-12), HIV Status (Positive) and Receiving ART (Yes Only)" id="aD5kbCnafVK">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="tX6vva5HMZ6"/>
+        <category id="bUVkiB6QLYZ"/>
+        <category id="to1jO2KmwCG"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Key Cadre Categories" id="iAnxpT57gD1">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="HGC6elqfL4T"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Key Cadre Categories and Financial Support Type" id="rO1FJSTMnSd">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="HGC6elqfL4T"/>
+        <category id="QStqT4iuVrU"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Key Cadres" id="ffUMvFLYhO5">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <categories>
+        <category id="iN3zI11YKVq"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo code="key_cadres_ou_level_and_financial_support_type_v3" name="Key Cadres (OU Level) and Financial Support Type v3" id="MU64IoetrWl">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="QStqT4iuVrU"/>
+        <category id="hnUZdEdLZqX"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo code="key_cadres_ou_level_v3" name="Key Cadres (OU Level) v3" id="cVmdniy4xxt">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="hnUZdEdLZqX"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Key Populations 2017" id="jQoa45w3QGn">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <categories>
+        <category id="caEMW4ZdpSW"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Key Populations v3" id="dxZWNGz93Js">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <categories>
+        <category id="VCCs1f22cOR"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Key Populations v3 and HIV Self Test Kit Type" id="vENUUeNRTOL">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="VCCs1f22cOR"/>
+        <category id="rGaFjr6CA1G"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Key Populations v3 and HIV Status (Positive)" id="JQvyWrTQJlo">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="VCCs1f22cOR"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Key Populations v3 and HIV Test Status" id="jV1le5PX1zf">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <categories>
+        <category id="VCCs1f22cOR"/>
+        <category id="iXdI2I0BcmZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Key Populations v3 and Test Results" id="DVHGosLpTY9">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <categories>
+        <category id="VCCs1f22cOR"/>
+        <category id="FokGv0LCTYj"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Key Populations v3, Confirmed Recency Result and HIV Status (Positive)" id="vG1lO5wzOfN">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="VCCs1f22cOR"/>
+        <category id="d58Pw4sbhp7"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Key Populations v3, RTRI Result and HIV Status (Positive Only)" id="O8VXb55gNtJ">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="VCCs1f22cOR"/>
+        <category id="dJbqqKoGX2M"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Key Populations v3, Test Indication and HIV Status (Positive Only)" id="XD80VrI0Ybm">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="VCCs1f22cOR"/>
+        <category id="RLo1KuW6bDX"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Known Positive / New Pos or Neg" id="Ph8cPUi9xnq">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <categories>
+        <category id="L567Pvhn2WC"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Lab Test Services Cascade" id="X3vE2sLG7zr">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="Hl1cmJhzEcj"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Lab Test Services - LAB and LAB_CQI - Level" id="VzHUELigXlC">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="yn74CYDJ4ry"/>
+        <category id="KHGn9v2bqrU"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Lab Test Services - LAB and Proficiency Testing Level" id="J1WCTH96oEj">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="yn74CYDJ4ry"/>
+        <category id="lObDriA1Cyg"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Lab Test Services - POCT and POCT_CQI - Level" id="vLV3siuouk4">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="H400rQY70Vw"/>
+        <category id="nCVx8TV3VnC"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Lab Test Services - POCT and Proficiency Testing Level" id="QOddChRkNcP">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="H400rQY70Vw"/>
+        <category id="lObDriA1Cyg"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="New Existing Art with Other" id="ilNqFtODuSA">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <categories>
+        <category id="b1f2qgNkG3s"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Outcome Type v2" id="YGjTSmUrmL8">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <categories>
+        <category id="aJMalPpjgN0"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Pregnant/Breastfeeding Status and HIV Status (Positive)" id="tC50kSmJ2a7">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="RmXHZog36ks"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Pregnant/Breastfeeding Status, Indication Status and HIV Status (Positive)" id="to3PK2szYpm">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="RmXHZog36ks"/>
+        <category id="XAbPTrBC8Dg"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="PrEP Three Month Test Result" id="diLLkSbTXDJ">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="remFcdfvgfR"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Priority Population Type" id="Ta91dgS1KCU">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="c1jGKEP8Vav"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Service Delivery Area" id="xp1cFGf4fJs">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="Oc8blFgIJA1"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Service Delivery Point v2" id="Ykuy7ZkiA2p">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="l56RVmWNddP"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Sex" id="R1rzmp9ROky">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <categories>
+        <category id="SEOZOio7f7o"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Sex and HIV Status (Positive)" id="SVbXafGUSLR">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="SEOZOio7f7o"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Sex (Male)" id="LsgnOK6g1Wg">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="TBpeHECy96a"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="TB Test Type and HIV Status (Positive)" id="ZlwevcvvfuZ">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="Ss3BTQ9CiQq"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Test Indication and HIV Status (Positive)" id="Z6bx6CrPFl0">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="RLo1KuW6bDX"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Test Results (Positive)" id="gAIYJMsN6Xu">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo code="transferred_or_exited" name="Transferred or exited" id="I6BamX5gXp6">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="yFiUWOodgOZ"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="Unassisted Self Testing Kit User" id="oumhZgUNVwp">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="jXsabEHLsQp"/>
+      </categories>
+    </categoryCombo>
+    <categoryCombo name="VMMC Technique and Sex (Male)" id="fHFBl6UXRpB">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <categories>
+        <category id="SZR0srlMbAX"/>
+        <category id="TBpeHECy96a"/>
+      </categories>
+    </categoryCombo>
+  </categoryCombos>
+</metadata>

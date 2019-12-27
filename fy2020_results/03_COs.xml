@@ -1,0 +1,1884 @@
+<?xml version='1.0' encoding='utf-8'?>
+<metadata>
+  <system>
+    <id>test.datim.org</id>
+    <rev>eeb5cb9</rev>
+    <version>2.30</version>
+    <date>2019-12-27T19:05:43.249</date>
+  </system>
+  <categoryOptions>
+    <categoryOption code="0 - 11 months" id="xXju2EWIoVs" name="0 - 11 months" shortName="0 - 11 months">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="&lt;1" id="sMBMO5xAq5T" name="&lt;1" shortName="&lt;1">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="&lt;10" id="KwCpNRDIVUr" name="&lt;10" shortName="&lt;10">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="10-14" id="jcGQdcpPSJP" name="10-14" shortName="10-14">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.543" created="2019-01-03T18:00:46.543">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.543" created="2019-01-03T18:00:46.543">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="12 - 23 months" id="FR8e8KxrmR0" name="12 - 23 months" shortName="12 - 23 months">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="13_24_months_in_dreams" id="UGtQRz7Oadk" name="13-24 Months in DREAMS" shortName="12-24 Months in DREAMS">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="1-4" id="VHpjs9qdLFF" name="1-4" shortName="1-4">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="&lt;15" id="yxu0TxWiJAM" name="&lt;15" shortName="&lt;15">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="15+" id="Qcj9g7o4iZz" name="15+" shortName="15+">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.543" created="2019-01-03T18:00:46.543">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.543" created="2019-01-03T18:00:46.543">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="15-17" id="HtpYIYs18ng" name="15-17" shortName="15-17">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.543" created="2019-01-03T18:00:46.543">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.543" created="2019-01-03T18:00:46.543">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="15-19" id="ttf9eZCHsTU" name="15-19" shortName="15-19">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="15-29" id="gjc58lAi4Hu" name="15-29" shortName="15-29">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.543" created="2019-01-03T18:00:46.543">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.543" created="2019-01-03T18:00:46.543">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="&lt;18" id="B94yy8Aa8Ib" name="&lt;18" shortName="&lt;18">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="18+" id="Q6xWcyHDq6e" name="18+" shortName="18+">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="18-30" id="s3fwbaDq9tq" name="18-30" shortName="18-30">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="20-24" id="GaScV37Kk29" name="20-24" shortName="20-24">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="2 - 12 months" id="pbXCUjm50XK" name="2 - 12 months" shortName="2 - 12 months">
+      <lastUpdatedBy id="KOd5x9XyQ6P"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.543" created="2019-01-03T18:00:46.543">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.543" created="2019-01-03T18:00:46.543">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="2-4" id="smqKrBp3u4r" name="2-4" shortName="2-4">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="25-29" id="meeNUPwEOtj" name="25-29" shortName="25-29">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="25_plus_months_in_dreams" id="hnh6d76JXMl" name="25+ Months in DREAMS" shortName="25+ Months in DREAMS">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="&lt;= 2 months" id="J4SQd7SnDi2" name="&lt;= 2 months" shortName="&lt;= 2 months">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="lt2_months" id="pElywX5bn06" name="&lt; 2 months" shortName="&lt; 2 months">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="30+" id="chwRiU63iN3" name="30+" shortName="30+">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.543" created="2019-01-03T18:00:46.543">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.543" created="2019-01-03T18:00:46.543">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="30-34" id="AZaNm5B8vn9" name="30-34" shortName="30-34">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.543" created="2019-01-03T18:00:46.543">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.543" created="2019-01-03T18:00:46.543">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="31-50" id="AwPiRQEHGfg" name="31-50" shortName="31-50">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="35-39" id="R32YPF38CJJ" name="35-39" shortName="35-39">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.543" created="2019-01-03T18:00:46.543">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.543" created="2019-01-03T18:00:46.543">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="40-44" id="JEth8vg25Rv" name="40-44" shortName="40-44">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.543" created="2019-01-03T18:00:46.543">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.543" created="2019-01-03T18:00:46.543">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="45-49" id="rQLOOlL3UOQ" name="45-49" shortName="45-49">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="&lt;5" id="IIKb0OKVCQn" name="&lt;5" shortName="&lt;5">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="50+" id="TpXlQcoXGZF" name="50+" shortName="50+">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="5-9" id="eQG9DwiqSQR" name="5-9" shortName="5-9">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="6 - 11 months" id="iktIW9SQ4nb" name="6 - 11 months" shortName="6 - 11 months">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="_lt_6_months_in_dreams" id="gcjhw7EzUOF" name="&lt;6 Months in DREAMS" shortName="&lt;6 Months in DREAMS">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="7_12_months_in_dreams" id="LzXLd7ZalLh" name="7-12 Months in DREAMS" shortName="6-12 Months in DREAMS">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Active" id="PohP5DBPfMs" name="Active" shortName="Active">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="ARV Bottles - LPV/r 40/10 (Pediatrics)" id="JH3HeEEwM6B" name="ARV Bottles - LPV/r 40/10 (Pediatrics)" shortName="ARV Bottles - LPV/r 40/10 (Pediatrics)">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="ARV Bottles - NVP (Adult)" id="e19NJ3X0KDf" name="ARV Bottles - NVP (Adult)" shortName="ARV Bottles - NVP (Adult)">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="ARV Bottles - NVP (Pediatric)" id="fp89udl06vg" name="ARV Bottles - NVP (Pediatric)" shortName="ARV Bottles - NVP (Pediatric)">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="ARV Bottles - Other (Adult)" id="p4VB0Zmgisz" name="ARV Bottles - Other (Adult)" shortName="ARV Bottles - Other (Adult)">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="ARV Bottles - Other (Pediatric)" id="u6lF5mtMFU8" name="ARV Bottles - Other (Pediatric)" shortName="ARV Bottles - Other (Pediatric)">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="ARV Bottles - TLD 180-count" id="Ih0AMbJjaNM" name="ARV Bottles - TLD 180-count" shortName="ARV Bottles - TLD 180-count">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="ARV Bottles - TLD 30-count" id="VtEcduZFtxY" name="ARV Bottles - TLD 30-count" shortName="ARV Bottles - TLD 30-count">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="ARV Bottles - TLD 90-count" id="gZql488SsTd" name="ARV Bottles - TLD 90-count" shortName="ARV Bottles - TLD 90-count">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="ARV Bottles - TLE/400 30-count" id="qbZ73wsSjkF" name="ARV Bottles - TLE/400 30-count" shortName="ARV Bottles - TLE/400 30-count">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="ARV Bottles - TLE/400 90-count" id="gecrfVU08RE" name="ARV Bottles - TLE/400 90-count" shortName="ARV Bottles - TLE/400 90-count">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="ARV Bottles - TLE 600/TEE" id="eR3MhXCd7iZ" name="ARV Bottles - TLE 600/TEE" shortName="ARV Bottles - TLE 600/TEE">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption id="ndzfuUnKSvc" name="ARV Dispensing Quantity - 3 to 5 months">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption id="RiByxJgzdQw" name="ARV Dispensing Quantity - 6 or more months">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption id="wyMUd9MUnNj" name="ARV Dispensing Quantity - Less than 3 months">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Breastfeeding" id="ODzpUMMy1Rx" name="Breastfeeding" shortName="Breastfeeding">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="CC-Neg" id="y8rNWLcxjyx" name="Cervical Cancer - Negative" shortName="CC-Neg">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-09-29T04:07:12.696" created="2019-09-29T04:07:12.696">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-09-29T04:07:12.696" created="2019-09-29T04:07:12.696">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="CC-Pos" id="Ev0AveYSezU" name="Cervical Cancer - Positive" shortName="CC-Pos">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-09-29T04:07:12.696" created="2019-09-29T04:07:12.696">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-09-29T04:07:12.696" created="2019-09-29T04:07:12.696">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="CCS-First" id="DbRhGp0wR1M" name="Cervical Cancer Screened - First Time" shortName="CCS-First">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-09-29T04:07:12.696" created="2019-09-29T04:07:12.696">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-09-29T04:07:12.696" created="2019-09-29T04:07:12.696">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="CCS-FollowUp" id="PtfO8GVZPLO" name="Cervical Cancer Screened - Follow Up" shortName="CCS-FollowUp">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-09-29T04:07:12.697" created="2019-09-29T04:07:12.697">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-09-29T04:07:12.697" created="2019-09-29T04:07:12.697">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="CCS-Rescreened" id="FuSTaX4lKGl" name="Cervical Cancer Screened - Rescreened" shortName="CCS-Rescreened">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-09-29T04:07:12.697" created="2019-09-29T04:07:12.697">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-09-29T04:07:12.697" created="2019-09-29T04:07:12.697">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="CC-Sus" id="Ggqnaazfkaj" name="Cervical Cancer - Suspected" shortName="CC-Sus">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-09-29T04:07:12.697" created="2019-09-29T04:07:12.697">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-09-29T04:07:12.697" created="2019-09-29T04:07:12.697">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Clients of Sex Workers" id="O1PxdGhszEI" name="Clients of Sex Workers" shortName="Clients of Sex Workers">
+      <lastUpdatedBy id="KOd5x9XyQ6P"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Clinical" id="H5ehNeZrTZS" name="Clinical" shortName="Clinical">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Clinical Support" id="LwRECDxyk6y" name="Clinical Support" shortName="Clinical Support">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="COD - HIV Disease Resulting in Cancer" id="SDMryPbt3zh" name="COD - HIV Disease Resulting in Cancer" shortName="COD - HIV Disease Resulting in Cancer">
+      <lastUpdatedBy id="KOd5x9XyQ6P"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="COD - HIV Disease Resulting in Other Infectious" id="gNOzhEOSR2y" name="COD - HIV Disease Resulting in Other Infectious and Parasitic Disease" shortName="COD - HIV Disease Resulting in Other Infectious">
+      <lastUpdatedBy id="KOd5x9XyQ6P"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="COD - HIV Disease Resulting in TB" id="bYJsZT46Bbr" name="COD - HIV Disease Resulting in TB" shortName="COD - HIV Disease Resulting in TB">
+      <lastUpdatedBy id="KOd5x9XyQ6P"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="COD - Non-Natural Causes" id="nMorBD0KVHm" name="COD - Non-Natural Causes" shortName="COD - Non-Natural Causes">
+      <lastUpdatedBy id="KOd5x9XyQ6P"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="COD - Other HIV Disease" id="wScVtp5QZfy" name="COD - Other HIV Disease" shortName="COD - Other HIV Disease">
+      <lastUpdatedBy id="KOd5x9XyQ6P"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="COD - Other Natural Causes" id="XPGM3zi9bGV" name="COD - Other Natural Causes" shortName="COD - Other Natural Causes">
+      <lastUpdatedBy id="KOd5x9XyQ6P"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="COD - Unknown Cause" id="Qriv0SpWI8l" name="COD - Unknown Cause" shortName="COD - Unknown Cause">
+      <lastUpdatedBy id="KOd5x9XyQ6P"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption id="UZiblswhotd" name="Confirmed Long-Term">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption id="uRSGVPnt8uy" name="Confirmed Recent">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Declined Testing" id="cClJAQGZyoZ" name="Declined Testing Or Testing Referral" shortName="Declined Testing">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="default" id="xYerKDKCefk" name="default" shortName="default">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Device based" id="TndIehEVhEA" name="Device based" shortName="Device based">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Directly-Assisted" id="CM0ud5U3iWD" name="Directly-Assisted" shortName="Directly-Assisted">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Displaced Persons" id="scrloEk0zvb" name="Displaced Persons" shortName="Displaced Persons">
+      <lastUpdatedBy id="KOd5x9XyQ6P"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Doctors" id="njFZbWwkAgA" name="Doctors" shortName="Doctors">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="dreams_fully_completed" id="sKjBJe2Um3s" name="DREAMS Fully Completed" shortName="DREAMS Fully Completed">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="dreams_fully_completed_and_secondary" id="IKC8RWqIbx9" name="DREAMS Fully Completed and Secondary" shortName="DREAMS Fully Completed and Secondary">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="dreams_not_completed" id="KvVcLT8u0I7" name="DREAMS Not Completed" shortName="DREAMS Not Completed">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="DREAMS Only Secondary Completed" id="Xxj42CRWEPD" name="DREAMS Only Secondary Completed">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Eligible for Cryotherapy" id="wKiKZsXj1dm" name="Eligible for Cryotherapy" shortName="Eligible for Cryotherapy">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-09-29T04:07:12.698" created="2019-09-29T04:07:12.698">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-09-29T04:07:12.698" created="2019-09-29T04:07:12.698">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Eligible for LEEP" id="yWxDgeefJrL" name="Eligible for LEEP" shortName="Eligible for LEEP">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-09-29T04:07:12.698" created="2019-09-29T04:07:12.698">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-09-29T04:07:12.698" created="2019-09-29T04:07:12.698">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Eligible for Thermocoagulation" id="RHYLey9uBjn" name="Eligible for Thermocoagulation" shortName="Eligible for Thermocoagulation">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-09-29T04:07:12.698" created="2019-09-29T04:07:12.698">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-09-29T04:07:12.698" created="2019-09-29T04:07:12.698">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Epidemiologist_Surveillance" id="WF9Ufxberjy" name="Epidemiologist / Surveillance" shortName="Epidemiologist / Surveillance">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Exited without Graduation" id="lxLCyuvG7OE" name="Exited without Graduation" shortName="Exited without Graduation">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Female" id="Z1EnpTPaUfq" name="Female" shortName="Female">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Female PWID" id="G6OYSzplF5a" name="Female PWID" shortName="Female PWID">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Fishing Communities" id="Xeyal88LxMG" name="Fishing Communities" shortName="Fishing Communities">
+      <lastUpdatedBy id="KOd5x9XyQ6P"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="FSW" id="UjruEYjGK4R" name="FSW" shortName="FSW">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Graduated" id="q1ViBVu6waQ" name="Graduated" shortName="Graduated">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="HIV-final status unknown" id="BidlhxcRrMS" name="HIV-final status unknown" shortName="HIV-final status unknown">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="HIV-infected" id="rIdoQ9zhrDZ" name="HIV-infected" shortName="HIV-infected">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="HIV-uninfected" id="kwgLbWR16Ye" name="HIV-uninfected" shortName="HIV-uninfected">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Known at Entry Positive" id="LvheCKbuFJZ" name="Known at Entry Positive" shortName="Known at Entry Positive">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="LAB_CQI - Audited and fully accredited" id="kPV1IK14c8u" name="LAB_CQI - Audited and fully accredited" shortName="LAB_CQI - Audited and fully accredited">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="LAB_CQI - Audited but not accredited" id="qYoeLk8sLLz" name="LAB_CQI - Audited but not accredited" shortName="LAB_CQI - Audited but not accredited">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="LAB_CQI - Participate but not audited" id="O0o0MNM8tmB" name="LAB_CQI - Participate but not audited" shortName="LAB_CQI - Participate but not audited">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="LAB_CQI - Testing with no participation" id="APS2gU1YRGZ" name="LAB_CQI - Testing with no participation" shortName="LAB_CQI - Testing with no participation">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Laboratory" id="blpDpgNufE4" name="Laboratory" shortName="Laboratory">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Lab Professionals" id="Ul9A0q3hJ8S" name="Lab Professionals" shortName="Lab Professionals">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Lab Testing - CD4" id="XUsQVzpQXYg" name="Lab Testing - CD4" shortName="Lab Testing - CD4">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Lab Testing - HIV IVT/EID" id="yCMcjTjqaCY" name="Lab Testing - HIV IVT/EID" shortName="Lab Testing - HIV IVT/EID">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Lab Testing - HIV Serology/Diagnostic" id="d7lZouXxO0z" name="Lab Testing - HIV Serology/Diagnostic" shortName="Lab Testing - HIV Serology/Diagnostic">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Lab Testing - HIV Viral Load" id="p89hnEpo3jk" name="Lab Testing - HIV Viral Load" shortName="Lab Testing - HIV Viral Load">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Lab Testing - Other Testing" id="xHo5pN3YKso" name="Lab Testing - Other Testing" shortName="Lab Testing - Other Testing">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Lab Testing - Rapid Test for Recent Infection" id="zyUcmeixadp" name="Lab Testing - Rapid Test for Recent Infection" shortName="Lab Testing - Rapid Test for Recent Infection">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Lab Testing - TB AFB" id="vwlJzp3kOdm" name="Lab Testing - TB AFB" shortName="Lab Testing - TB AFB">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Lab Testing - TB Culture" id="vEB4fYO6g9Z" name="Lab Testing - TB Culture" shortName="Lab Testing - TB Culture">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Lab Testing - TB Xpert" id="aQqTOeQlWXu" name="Lab Testing - TB Xpert" shortName="Lab Testing - TB Xpert">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Lay" id="dYd81hDENOM" name="Lay" shortName="Lay">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Life-long ART, Already" id="rSKP7Z85FX9" name="Life-long ART, Already" shortName="Life-long ART, Already">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Life-long ART, New" id="udcRwufEXFQ" name="Life-long ART, New" shortName="Life-long ART, New">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Long-Term RTRI" id="J5IyPK7zXAP" name="Long-Term RTRI" shortName="Long-Term RTRI">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Male" id="Qn0I5FbKQOA" name="Male" shortName="Male">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Male PWID" id="wyeCT63FkXB" name="Male PWID" shortName="Male PWID">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Management" id="yS5rtbJoEyz" name="Management" shortName="Management">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Management_Central_Level" id="vz3DC6q4gok" name="Management - Central Level" shortName="Management - Central Level">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Management_Sub_National_Unit" id="quha0r3keWs" name="Management - Sub-National Unit" shortName="Management - Sub-National Unit">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Midwives" id="Y94B9UKq8dM" name="Midwives" shortName="Midwives">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Military &amp; Other Uniformed Services" id="UwoJOa2Z2wA" name="Military &amp; Other Uniformed Services" shortName="Military &amp; Other Uniformed Services">
+      <lastUpdatedBy id="KOd5x9XyQ6P"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Mobile Population" id="o0q0ADwVZW6" name="Mobile Population" shortName="Mobile Population">
+      <lastUpdatedBy id="KOd5x9XyQ6P"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="MSM" id="qY5T9mKjsz5" name="MSM" shortName="MSM">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="MSM not SW" id="aqmuvVX1H0v" name="MSM not SW" shortName="MSM not SW">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="MSM SW" id="Pfw6StSK8Wv" name="MSM SW" shortName="MSM SW">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Negative" id="Gb0GYkqotaO" name="Negative" shortName="Negative">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Newly Identified Negative" id="BiB1MtA7o4A" name="Newly Identified Negative" shortName="Newly Identified Negative">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Newly Identified Positive" id="Vr59uUJBySG" name="Newly Identified Positive" shortName="Newly Identified Positive">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Newly Tested" id="XfIfIImHANf" name="Newly Tested or Testing Referred" shortName="Newly Tested">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption id="Wz2X1lsVl40" name="No Contact Outcome - Died">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption id="ZGjlCVITC1C" name="No Contact Outcome - Lost to Follow-Up (&lt;3 Months Treatment)">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption id="gDN4kA9naNQ" name="No Contact Outcome - Lost to Follow-Up (3+ Months Treatment)">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption id="jeRzAnsEJH6" name="No Contact Outcome - Refused (Stopped) Treatment">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption id="YrZhvC3I17B" name="No Contact Outcome - Transferred Out">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Non-injecting Drug Users" id="Twjnpgn5NIj" name="Non-injecting Drug Users" shortName="Non-injecting Drug Users">
+      <lastUpdatedBy id="KOd5x9XyQ6P"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Non-Monetary" id="fQtW0bEXyam" name="Non-Monetary" shortName="Non-Monetary">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Not Receiving ART" id="JNC63eJ9sfR" name="Not Receiving ART" shortName="Not Receiving ART">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Nurses" id="lPZUo7bwKqj" name="Nurses" shortName="Nurses">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Other" id="kA1hF2llcK1" name="Other" shortName="Other">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Other - ART" id="ct8oS7GmRcB" name="Other - ART" shortName="Other - ART">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Other Cadre" id="cA2dcMgbJnu" name="Other Cadre" shortName="Other Cadre">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Other Outcomes: Died" id="UyLNDMSLw3Y" name="Other Outcomes: Died" shortName="Other Outcomes: Died">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Other Priority Population Types" id="c6RouaxZryz" name="Other Priority Population Types" shortName="Other Priority Population Types">
+      <lastUpdatedBy id="KOd5x9XyQ6P"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="People in prisons" id="pi7naVKPzSM" name="People in prisons and other enclosed settings" shortName="People in prisons">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Pharmacy" id="hP1iGK3ps7e" name="Pharmacy" shortName="Pharmacy">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Physical_and_or_Emotional_Violence" id="USe0kg2Bind" name="Physical and/or Emotional Violence" shortName="Physical and/or Emotional Violence">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="POCT_CQI - Audited score 0 - 1" id="nCDkkY59GKv" name="POCT_CQI - Audited score 0 - 1" shortName="POCT_CQI - Audited score 0 - 1">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="POCT_CQI - Audited score 2 - 3" id="U5gtYN8nlO3" name="POCT_CQI - Audited score 2 - 3" shortName="POCT_CQI - Audited score 2 - 3">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="POCT_CQI - Audited score 4-5" id="I6ruQG0KhCy" name="POCT_CQI - Audited score 4-5" shortName="POCT_CQI - Audited score 4-5">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="POCT_CQI - Participate but not audited" id="kRTTbm5D4r8" name="POCT_CQI - Participate but not audited" shortName="POCT_CQI - Participate but not audited">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="POCT_CQI - Testing with no participation" id="QsT3GV7NfXu" name="POCT_CQI - Testing with no participation" shortName="POCT_CQI - Testing with no participation">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Positive" id="KM4dyooZHUP" name="Positive" shortName="Positive">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Pregnant" id="Gkj4jidx2AB" name="Pregnant" shortName="Pregnant">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="PrEP Less Than Three Months Since Initiation" id="mkuv2szLnv2" name="PrEP Less Than Three Months Since Initiation" shortName="PrEP Less Than Three Months Since Initiation">
+      <lastUpdatedBy id="KOd5x9XyQ6P"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="PrEP Three Month Test Result - Negative" id="LPYWrqCDVIO" name="PrEP Three Month Test Result - Negative" shortName="PrEP Three Month Test Result - Negative">
+      <lastUpdatedBy id="KOd5x9XyQ6P"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="PrEP Three Month Test Result - Positive" id="ZaeaLMJH6u8" name="PrEP Three Month Test Result - Positive" shortName="PrEP Three Month Test Result - Positive">
+      <lastUpdatedBy id="KOd5x9XyQ6P"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="PT - Participate and passed last round" id="fpN4F0yCe9E" name="PT - Participate and passed last round" shortName="PT - Participate and passed last round">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="PT - Participate but did not pass last round" id="cwBJku4KjlW" name="PT - Participate but did not pass last round" shortName="PT - Participate but did not pass last round">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="PT - Testing with no participation" id="FqRY7BgYRe5" name="PT - Testing with no participation" shortName="PT - Testing with no participation">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="PWID" id="CKCeNqWcxXe" name="PWID" shortName="PWID">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Receiving ART" id="dxpxJoFV0lZ" name="Receiving ART" shortName="Receiving ART">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Recent Negative" id="bpEMgArwsX5" name="Recent Negative" shortName="Recent Negative">
+      <lastUpdatedBy id="KOd5x9XyQ6P"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Recent RTRI" id="BMsi3ZMO91R" name="Recent RTRI" shortName="Recent RTRI">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Routine" id="rGptWqlhaVU" name="Routine" shortName="Routine">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Rural" id="okcBrynlBfZ" name="Rural" shortName="Rural">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Salary" id="BArD7ZeMLqk" name="Salary" shortName="Salary">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Service Delivery Area - ANC and/or Maternity" id="jjPGY1LKZU5" name="Service Delivery Area - ANC and/or Maternity" shortName="Service Delivery Area - ANC and/or Maternity">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Service Delivery Area - Care and Treatment" id="onRXPeILBSV" name="Service Delivery Area - Care and Treatment" shortName="Service Delivery Area - Care and Treatment">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Service Delivery Area - Early Infant Diagnosis" id="oCCRqy0e8Ez" name="Service Delivery Area - Early Infant Diagnosis (not Ped ART)" shortName="Service Delivery Area - Early Infant Diagnosis">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Service Delivery Area - HIV/TB" id="YMN0r8d2ulR" name="Service Delivery Area - HIV/TB" shortName="Service Delivery Area - HIV/TB">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Service Delivery Area - HIV Testing Services" id="AHUYh5WPikK" name="Service Delivery Area - HIV Testing Services" shortName="Service Delivery Area - HIV Testing Services">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="SDP - ANC and/or Maternity" id="dYjxLHRkeIv" name="Service Delivery Points - Antenatal Care and/or Maternity" shortName="SDP - ANC and/or Maternity">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="SDP - Care and Treatment" id="K5tpB3JPFiX" name="Service Delivery Points - Care and Treatment" shortName="SDP - Care and Treatment">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="SDP - HIV Testing" id="yTiF2gNvDFA" name="Service Delivery Points - HIV Testing" shortName="SDP - HIV Testing">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="SDP - Key Populations" id="NJWqmXiX8US" name="Service Delivery Points - Key Populations" shortName="SDP - Key Populations">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="SDP - Priority Population Prevention" id="sadY8NfO4Hz" name="Service Delivery Points - Priority Population Prevention" shortName="SDP - Priority Population Prevention">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Sexual_Violence_Post-Rape_Care" id="bchuAJAMSZO" name="Sexual Violence (Post-Rape Care)" shortName="Sexual Violence (Post-Rape Care)">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Smear" id="kwOoErg49DJ" name="Smear" shortName="Smear">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Social Service" id="jWQX792nqfb" name="Social Service" shortName="Social Service">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Social Service Workers" id="KcNOmcHSFWP" name="Social Service Workers" shortName="Social Service Workers">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Stipend" id="mbgahYbjSDk" name="Stipend" shortName="Stipend">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Surgical Technique" id="t4unTtlKuoR" name="Surgical Technique" shortName="Surgical Technique">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Targeted" id="Y53tae7HT6c" name="Targeted" shortName="Targeted">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="TB Screen - Negative" id="xv3iwsb4m3m" name="TB Screen - Negative" shortName="TB Screen - Negative">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="TB Screen - Positive" id="FNsYVm36CYM" name="TB Screen - Positive" shortName="TB Screen - Positive">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.544" created="2019-01-03T18:00:46.544">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Test Not Required" id="dKbSdQD4WOr" name="Test Not Required" shortName="Test Not Required">
+      <lastUpdatedBy id="KOd5x9XyQ6P"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.545" created="2019-01-03T18:00:46.545">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.545" created="2019-01-03T18:00:46.545">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Test not required based on risk assessment" id="I4Rlm4614IE" name="Test not required based on risk assessment">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="TG" id="eiR4kOjT60r" name="TG" shortName="TG">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="TG not SW" id="kgDh0sCkIAN" name="TG not SW" shortName="TG not SW">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="TG SW" id="bEqNZtIA0Jb" name="TG SW" shortName="TG SW">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Transferred out - non PEPFAR Support Partner" id="WpWRV8o9kQx" name="Transferred out - non PEPFAR Support Partner" shortName="Transferred out - non PEPFAR Support Partner">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Transferred out - PEPFAR Support Partner" id="YyDpNhRd3zP" name="Transferred out - PEPFAR Support Partner" shortName="Transferred out - PEPFAR Support Partner">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Unassisted" id="QvMZVdK1AkM" name="Unassisted" shortName="Unassisted">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.545" created="2019-01-03T18:00:46.545">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.545" created="2019-01-03T18:00:46.545">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Unassisted - Other" id="MSr7U9DLkYT" name="Unassisted - Other" shortName="Unassisted - Other">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Unassisted - Self" id="fxrnMow0fbJ" name="Unassisted - Self" shortName="Unassisted - Self">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Unassisted - Sex Partner" id="PXEhql2yGWu" name="Unassisted - Sex Partner" shortName="Unassisted - Sex Partner">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Undisclosed to IP" id="kLaBbu7DjSi" name="Undisclosed to IP" shortName="Undisclosed to IP">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.545" created="2019-01-03T18:00:46.545">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.545" created="2019-01-03T18:00:46.545">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Undocumented_Test_Indication" id="F7bSQWWotUJ" name="Undocumented Test Indication" shortName="Undocumented Test Indication">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.545" created="2019-01-03T18:00:46.545">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.545" created="2019-01-03T18:00:46.545">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Unknown" id="gUdtLH3fV1m" name="Unknown" shortName="Unknown">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.545" created="2019-01-03T18:00:46.545">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.545" created="2019-01-03T18:00:46.545">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Unknown Age" id="y1qnRg4a8dz" name="Unknown Age" shortName="Unknown Age">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+    </categoryOption>
+    <categoryOption code="Unknown Sex" id="iAoGQ8eQPTP" name="Unknown Sex" shortName="Unknown Sex">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.545" created="2019-01-03T18:00:46.545">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2019-01-03T18:00:46.545" created="2019-01-03T18:00:46.545">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Urban" id="vN9E6kTpBC8" name="Urban" shortName="Urban">
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+    <categoryOption code="Xpert" id="rLxtEVFKDdm" name="Xpert" shortName="Xpert">
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-07-03T17:15:18.738" created="2018-07-03T17:15:18.738">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOption>
+  </categoryOptions>
+</metadata>

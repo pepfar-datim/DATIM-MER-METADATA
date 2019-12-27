@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<metadata>
+  <system>
+    <id>test.datim.org</id>
+    <rev>eeb5cb9</rev>
+    <version>2.30</version>
+    <date>2019-12-27T19:05:45.304</date>
+  </system>
+  <options>
+    <option code="1" name="Yes" id="IOvihGVjS08">
+      <sortOrder>1</sortOrder>
+      <optionSet id="GRhjHsi1HBf"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:19.198" created="2018-07-03T17:15:19.198">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+    </option>
+  </options>
+  <optionSets>
+    <optionSet code="YES_ONLY" name="Yes Only" id="GRhjHsi1HBf">
+      <version>3</version>
+      <valueType>INTEGER</valueType>
+      <lastUpdatedBy id="Uhsev5495GW"/>
+      <attributeValues>
+        <attributeValue lastUpdated="2018-05-22T17:00:24.671" created="2018-05-22T17:00:24.671">
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+        <attributeValue lastUpdated="2018-07-03T17:15:19.252" created="2018-07-03T17:15:19.252">
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+      </attributeValues>
+      <options>
+        <option id="IOvihGVjS08"/>
+      </options>
+    </optionSet>
+  </optionSets>
+</metadata>
