@@ -1,0 +1,827 @@
+<?xml version='1.0' encoding='utf-8'?>
+<metadata>
+  <system>
+    <id>test.datim.org</id>
+    <rev>eeb5cb9</rev>
+    <version>2.30</version>
+    <date>2020-01-02T14:27:53.284</date>
+  </system>
+  <categoryOptionGroups>
+    <categoryOptionGroup id="tIZRQs0FK5P" name="10-14 (Specific)" shortName="10-14 (Specific)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="jcGQdcpPSJP"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="OM74T7QbSG6" name="&lt;10 (Specific)" shortName="&lt;10 (Specific)">
+      <dataDimensionType>ATTRIBUTE</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="KwCpNRDIVUr"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="BURHq262iEL" name="1-4 (Inclusive)" shortName="1-4 (Inclusive)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="VHpjs9qdLFF"/>
+        <categoryOption id="smqKrBp3u4r"/>
+        <categoryOption id="FR8e8KxrmR0"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup code="15_17_SPECIFIC" id="noEF3Mx7aBu" name="15-17 (Specifc)" shortName="15-17 (Specifc)">
+      <dataDimensionType>ATTRIBUTE</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="HtpYIYs18ng"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="QOawCj9oLNS" name="15-19 (Specific)" shortName="15-19 (Specific)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="ttf9eZCHsTU"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="X2PpJrdZaxH" name="&lt;15 (Inclusive)" shortName="&lt;15 (Inclusive)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="eQG9DwiqSQR"/>
+        <categoryOption id="VHpjs9qdLFF"/>
+        <categoryOption id="jcGQdcpPSJP"/>
+        <categoryOption id="FR8e8KxrmR0"/>
+        <categoryOption id="KwCpNRDIVUr"/>
+        <categoryOption id="pbXCUjm50XK"/>
+        <categoryOption id="iktIW9SQ4nb"/>
+        <categoryOption id="sMBMO5xAq5T"/>
+        <categoryOption id="yxu0TxWiJAM"/>
+        <categoryOption id="smqKrBp3u4r"/>
+        <categoryOption id="ewbCuNIoxfI"/>
+        <categoryOption id="J4SQd7SnDi2"/>
+        <categoryOption id="pElywX5bn06"/>
+        <categoryOption id="xXju2EWIoVs"/>
+        <categoryOption id="jFuArfdRh6i"/>
+        <categoryOption id="QjfSmap6C1o"/>
+        <categoryOption id="swDN9UgTG9H"/>
+        <categoryOption id="A9ddhoPWEUn"/>
+        <categoryOption id="IIKb0OKVCQn"/>
+        <categoryOption id="uUR5Yf4QcT3"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="HkQZzpC7cUo" name="15+ (Inclusive)" shortName="15+ (Inclusive)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="Qcj9g7o4iZz"/>
+        <categoryOption id="Gqr7ec6KksO"/>
+        <categoryOption id="JEth8vg25Rv"/>
+        <categoryOption id="meeNUPwEOtj"/>
+        <categoryOption id="chwRiU63iN3"/>
+        <categoryOption id="XIFPLoaLuOF"/>
+        <categoryOption id="GaScV37Kk29"/>
+        <categoryOption id="Q6xWcyHDq6e"/>
+        <categoryOption id="HtpYIYs18ng"/>
+        <categoryOption id="rQLOOlL3UOQ"/>
+        <categoryOption id="Syam8WJ6KtM"/>
+        <categoryOption id="TpXlQcoXGZF"/>
+        <categoryOption id="j9x36bAer9v"/>
+        <categoryOption id="ttf9eZCHsTU"/>
+        <categoryOption id="LSzfEt8dmJ6"/>
+        <categoryOption id="AwPiRQEHGfg"/>
+        <categoryOption id="gF2bdhyAIfu"/>
+        <categoryOption id="Wzh7ea4uM0D"/>
+        <categoryOption id="mfSwF817dUl"/>
+        <categoryOption id="R32YPF38CJJ"/>
+        <categoryOption id="AZaNm5B8vn9"/>
+        <categoryOption id="s3fwbaDq9tq"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="dHewx3ia8a6" name="&lt;15 (Specific)" shortName="&lt;15 (Specific)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="yxu0TxWiJAM"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="aIbkjGjUZvE" name="15+ (Specific)" shortName="15+ (Specific)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="Qcj9g7o4iZz"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup code="18_24_SPECIFIC" id="N0PwGN3UKWx" name="18-24 (Specific)" shortName="18-24 (Specific)">
+      <dataDimensionType>ATTRIBUTE</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="Wzh7ea4uM0D"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="BLXmhECo3EY" name="18+ (Specific)" shortName="18+ (Specific)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="Q6xWcyHDq6e"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="egW0hBcZeD2" name="1-9 (Specific)" shortName="1-9 (Specific)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="A9ddhoPWEUn"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="Z8MTaDxRBP6" name="&lt;1 (Specific)" shortName="&lt;1 (Specific)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="sMBMO5xAq5T"/>
+        <categoryOption id="xXju2EWIoVs"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="BDPEHrovntA" name="20-24 (Specific)" shortName="20-24 (Specific)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="GaScV37Kk29"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="V1TzJFJTdHd" name="2-12 Months (Specific)" shortName="2-12 Months (Specific)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="pbXCUjm50XK"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="K9Cw4402aAh" name="25-29 (Specific)" shortName="25-29 (Specific)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="meeNUPwEOtj"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="BnuNBXdgkKi" name="25-49 (Specific)" shortName="25-49 (Specific)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="j9x36bAer9v"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup code="25_PLUS_SPECIFIC" id="pk98FEsOJcz" name="25+ (Specific)" shortName="25+ (Specific)">
+      <dataDimensionType>ATTRIBUTE</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="Gqr7ec6KksO"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="M8W7M5GlOPh" name="&lt;2 Months (Specific)" shortName="&lt;2 Months (Specific)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="pElywX5bn06"/>
+        <categoryOption id="J4SQd7SnDi2"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="JqZFtdn1sG3" name="30-34 (Specific)" shortName="30-34 (Specific)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="AZaNm5B8vn9"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="AnBUfa1TLnS" name="30-49 (Specific)" shortName="30-49 (Specific)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="Syam8WJ6KtM"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="ftAnvKhxRxl" name="35-39 (Specific)" shortName="35-39 (Specific)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="R32YPF38CJJ"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="kyKHoWxTzHR" name="40-44 (Specific)" shortName="40-44 (Specific)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="JEth8vg25Rv"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="wRYm1EaHwN6" name="40-49 (Specific)" shortName="40-49 (Specific)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="XIFPLoaLuOF"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="MsbFixtB8mu" name="45-49 (Specific)" shortName="45-49 (Specific)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="rQLOOlL3UOQ"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="bePcXLCq9Ov" name="50+ (Specific)" shortName="50+ (Specific)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="TpXlQcoXGZF"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="RV1ZeOr98rI" name="5-9 (Specific)" shortName="5-9 (Specific)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="eQG9DwiqSQR"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="Zfg3cHN5TMz" name="&lt;5 (Specific)" shortName="&lt;5 (Specific)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="IIKb0OKVCQn"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup code="ALREADY_ON_ART" id="blnuJdt8f1Y" name="Already on ART" shortName="Already on ART">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="rSKP7Z85FX9"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="MHWJsd7BQqw" name="Breastfeeding" shortName="Breastfeeding">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="ODzpUMMy1Rx"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="ZOYVg7Hosni" name="Females" shortName="Females">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="Z1EnpTPaUfq"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="Z8Otpb3Im7s" name="FY20 Recency: Long-term Infection" shortName="Long-term Infection">
+      <categoryOptions>
+        <categoryOption id="UZiblswhotd"/>
+        <categoryOption id="J5IyPK7zXAP"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="bMOgVmg6RnW" name="FY20 Recency: Recent Infection" shortName="Recent Infection">
+      <categoryOptions>
+        <categoryOption id="uRSGVPnt8uy"/>
+        <categoryOption id="BMsi3ZMO91R"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="ntdVDkWUOj9" name="HIV Negative (Inclusive)" shortName="HIV Negative (Inclusive)">
+      <dataDimensionType>ATTRIBUTE</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="bpEMgArwsX5"/>
+        <categoryOption id="Gb0GYkqotaO"/>
+        <categoryOption id="BiB1MtA7o4A"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="EvyNJHbQ7ZE" name="HIV Negative (Specific)" shortName="HIV Negative (Specific)">
+      <dataDimensionType>ATTRIBUTE</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="Gb0GYkqotaO"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="l5mQOWpLybR" name="HIV Positive (Inclusive)" shortName="HIV Positive (Inclusive)">
+      <dataDimensionType>ATTRIBUTE</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="Vr59uUJBySG"/>
+        <categoryOption id="KM4dyooZHUP"/>
+        <categoryOption id="LvheCKbuFJZ"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="awSDzziN3Dn" name="HIV Positive (Specific)" shortName="HIV Positive (Specific)">
+      <dataDimensionType>ATTRIBUTE</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="KM4dyooZHUP"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="Qnfnp6VzPcP" name="HIV Status Unknown (Inclusive)" shortName="HIV Status Unknown (Inclusive)">
+      <dataDimensionType>ATTRIBUTE</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="gUdtLH3fV1m"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="i4Fgst9vzF9" name="HIV Status Unknown (Specific)" shortName="HIV Status Unknown (Specific)">
+      <dataDimensionType>ATTRIBUTE</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="gUdtLH3fV1m"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="e9fbFnQEyyA" name="Known at Entry Positive (Specific)" shortName="Known at Entry Positive (Specific)">
+      <dataDimensionType>ATTRIBUTE</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="LvheCKbuFJZ"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="hDBPKTjUPDm" name="Males" shortName="Males">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="Qn0I5FbKQOA"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="viYXyEy7wKi" name="Newly Identified Negative (Specific)" shortName="Newly Identified Negative (Specific)">
+      <dataDimensionType>ATTRIBUTE</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="BiB1MtA7o4A"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="mSBg9AZx1lV" name="Newly Identified Positive (Specific)" shortName="Newly Identified Positive (Specific)">
+      <dataDimensionType>ATTRIBUTE</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="Vr59uUJBySG"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup code="ART_NEW" id="x9wEpHXMZ5Z" name="New on ART" shortName="New on ART">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="udcRwufEXFQ"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="JaWOzzRaq3y" name="Pregnant" shortName="Pregnant">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="Gkj4jidx2AB"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="GNXy3pvTTM2" name="Recent Negatives (Specific)" shortName="Recent Negatives (Specific)">
+      <dataDimensionType>ATTRIBUTE</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="bpEMgArwsX5"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="MnAgKVcL97H" name="Unknown Age" shortName="Unknown Age">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="y1qnRg4a8dz"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+    <categoryOptionGroup id="Gxcf2DK8vNc" name="Unspecified sex" shortName="Unspecified sex">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <categoryOptions>
+        <categoryOption id="iAoGQ8eQPTP"/>
+      </categoryOptions>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroup>
+  </categoryOptionGroups>
+</metadata>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<metadata>
+  <system>
+    <id>test.datim.org</id>
+    <rev>eeb5cb9</rev>
+    <version>2.30</version>
+    <date>2020-01-02T14:27:52.935</date>
+  </system>
+  <options>
+    <option code="1" name="Yes" id="IOvihGVjS08">
+      <sortOrder>1</sortOrder>
+      <optionSet id="GRhjHsi1HBf"/>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </option>
+  </options>
+  <optionSets>
+    <optionSet code="YES_ONLY" id="GRhjHsi1HBf" name="Yes Only">
+      <valueType>INTEGER</valueType>
+      <version>3</version>
+      <options>
+        <option id="IOvihGVjS08"/>
+      </options>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </optionSet>
+  </optionSets>
+</metadata>

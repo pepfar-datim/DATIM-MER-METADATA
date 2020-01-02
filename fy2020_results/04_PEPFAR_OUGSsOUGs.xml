@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<metadata>
+  <system>
+    <id>test.datim.org</id>
+    <rev>eeb5cb9</rev>
+    <version>2.30</version>
+    <date>2020-01-02T14:27:53.647</date>
+  </system>
+  <organisationUnitGroups>
+    <organisationUnitGroup code="COMMUNITY" id="PvuaP6YALSA" name="Community" shortName="Community">
+      <symbol>11.png</symbol>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </organisationUnitGroup>
+    <organisationUnitGroup code="COUNTRY" id="cNzfcPWEGSH" name="Country" shortName="Country">
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </organisationUnitGroup>
+    <organisationUnitGroup code="FACILITY" id="POHZmzofoVx" name="Facility" shortName="Facility">
+      <symbol>21.png</symbol>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </organisationUnitGroup>
+    <organisationUnitGroup code="MILITARY" id="nwQbMeALRjL" name="Military" shortName="Military">
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </organisationUnitGroup>
+    <organisationUnitGroup code="OTHER_OU_TYPE" id="AookYR4ECPH" name="Other organisation unit type" shortName="Other organisation unit type">
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </organisationUnitGroup>
+  </organisationUnitGroups>
+  <organisationUnitGroupSets>
+    <organisationUnitGroupSet id="mINJi7rR1a6" name="Type of organisational unit">
+      <description>Type of organisational unit</description>
+      <compulsory>true</compulsory>
+      <includeSubhierarchyInAnalytics>false</includeSubhierarchyInAnalytics>
+      <dataDimension>true</dataDimension>
+      <organisationUnitGroups>
+        <organisationUnitGroup id="cNzfcPWEGSH"/>
+        <organisationUnitGroup id="PvuaP6YALSA"/>
+        <organisationUnitGroup id="nwQbMeALRjL"/>
+        <organisationUnitGroup id="POHZmzofoVx"/>
+        <organisationUnitGroup id="AookYR4ECPH"/>
+      </organisationUnitGroups>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </organisationUnitGroupSet>
+  </organisationUnitGroupSets>
+</metadata>

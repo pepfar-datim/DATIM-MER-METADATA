@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<metadata>
+  <system>
+    <id>test.datim.org</id>
+    <rev>eeb5cb9</rev>
+    <version>2.30</version>
+    <date>2020-01-02T14:27:53.477</date>
+  </system>
+  <indicatorTypes>
+    <indicatorType name="Number" id="QEjvmP5XVSn">
+      <number>true</number>
+      <factor>1</factor>
+    </indicatorType>
+    <indicatorType name="Percentage" id="TcQNjn6Mx4h">
+      <number>false</number>
+      <factor>100</factor>
+    </indicatorType>
+    <indicatorType name="Ratio" id="uarlCLt2NF7">
+      <number>false</number>
+      <factor>1</factor>
+    </indicatorType>
+  </indicatorTypes>
+</metadata>
