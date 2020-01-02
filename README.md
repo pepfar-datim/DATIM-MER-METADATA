@@ -38,10 +38,14 @@ There is no predefined schedule for when the metadata package will be updated. U
 
 The latest published version may not be the most recent version of the metadata within DATIM.
 
-## Disclaimer
+## Disclaimers
 **The metadata available includes several components that are necessary for loading and maintaining a DHIS2 instance to include PEPFAR’s MER metadata that is compatible with DATIM. The package does not address additional pieces and processes required for a successful operation of a DHIS2 instance, for example user management as these should be the expectation is that these are implemented and managed by the partner organization.**
 
-As such, no guarantees and responsibilities are provided by the act of publishing DATIM’s metadata.
+**PEPFAR is not responsible for damage to any production DHIS 2 instances incurred from the use of files found here. We strongly advise all metadata managers to make liberal use of test environments.**
+
+**As such, no guarantees and responsibilities are provided by the act of publishing DATIM’s metadata.**
 
 ## Contact us
 Have questions, comments, or issue? [Please Submit a request.](https://datim.zendesk.com/hc/en-us/requests/new)
+
+[Back to Zendesk](https://datim.zendesk.com/hc/en-us/articles/360037706811)
