@@ -1,6 +1,6 @@
 ## MER 2.4 (Results FY2020) Jan 3, 2020 Release Notes
 
-**WARNING: LOADING THESE FILES INTO AN EXISTING DHIS 2 DATABASE MAY CAUSE SYSTEM CORRUPTION** These files are intended strictly for use in a testing environment, and should not be used in an existing production system.
+**WARNING: LOADING THESE FILES INTO AN EXISTING DHIS 2 DATABASE MAY CAUSE SYSTEM CORRUPTION.** These files are intended strictly for use in a testing environment, and should not be used in an existing production system.
 
 **Pulled from version:** 2.30.eeb5cb9
 
