@@ -1,4 +1,4 @@
-## MER 2.4 Jan 3, 2020 Release Notes
+## MER 2.4 (Results FY2020) Jan 3, 2020 Release Notes
 
 **Pulled from version:** 2.30.eeb5cb9
 
