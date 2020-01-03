@@ -6,6 +6,6 @@
 
 **Caveats for systems with existing metadata/data:** 
 
- - Common objects will need to be reconciled prior to loading these files (e.g. COs, OUGs, etc...)
+ - Common objects **MUST** be reconciled prior to loading these files into any existing system (e.g. COs, OUGs, etc...)
  - Use test environments and **DO NOT LOAD THESE FILES DIRECTLY INTO A PRODUCTION SYSTEM**
  - See the [Terms of Use](https://github.com/pepfar-datim/DATIM-MER-METADATA/blob/master/README.md)
