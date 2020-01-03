@@ -10,4 +10,4 @@
 
  - Common objects **MUST** be reconciled prior to loading these files into any existing system (e.g. COs, OUGs, etc...)
  - Use test environments and **DO NOT LOAD THESE FILES DIRECTLY INTO A PRODUCTION SYSTEM**
- - See the [Terms of Use](https://github.com/pepfar-datim/DATIM-MER-METADATA/blob/master/README.md)
+ - See the [Terms of Use](https://github.com/pepfar-datim/DATIM-MER-METADATA/blob/master/README.md) for more details
