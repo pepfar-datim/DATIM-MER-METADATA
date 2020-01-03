@@ -2,9 +2,11 @@
 
 **Pulled from version:** 2.30.eeb5cb9
 
+**WARNING: LOADING THESE FILES INTO AN EXISTING DHIS 2 DATABASE WILL CAUSE SYSTEM CORRUPTION**
+
 **Instructions:** For entirely blank systems, import in numerical order
 
-**Caveats for systems with existing metadata/data:** 
+**For systems with existing metadata/data:** 
 
  - Common objects **MUST** be reconciled prior to loading these files into any existing system (e.g. COs, OUGs, etc...)
  - Use test environments and **DO NOT LOAD THESE FILES DIRECTLY INTO A PRODUCTION SYSTEM**
