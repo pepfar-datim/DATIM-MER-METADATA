@@ -1,8 +1,8 @@
 ## MER 2.4 (Results FY2020) Jan 3, 2020 Release Notes
 
-**Pulled from version:** 2.30.eeb5cb9
+**WARNING: LOADING THESE FILES INTO AN EXISTING DHIS 2 DATABASE MAY CAUSE SYSTEM CORRUPTION**
 
-**WARNING: LOADING THESE FILES INTO AN EXISTING DHIS 2 DATABASE WILL CAUSE SYSTEM CORRUPTION**
+**Pulled from version:** 2.30.eeb5cb9
 
 **Instructions:** For entirely blank systems, import in numerical order
 
