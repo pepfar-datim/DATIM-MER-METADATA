@@ -1,6 +1,6 @@
 # Public MER Metadata Repo
 
-## Purpose
+## Purpose 
 The purpose for sharing DATIM’s Metadata is to make it easier for Implementing Partners (IPs) and other interested users to collect and report PEPFAR MER data that conforms to DATIM requirements.
 
 DATIM will periodically (as needed) publish the latest DATIM metadata as it related to the most recent version of the PEPFAR Monitoring, Evaluation, and Reporting Indicator Reference Guide.
