@@ -189,5 +189,80 @@
         </attributeValue>
       </attributeValues>
     </categoryOptionGroupSet>
+    <categoryOptionGroupSet created="2019-01-03T07:31:07.990" lastUpdated="2020-08-26T18:28:07.055" name="Financial Support Type" id="wESJO9jD0rp">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <publicAccess>r-------</publicAccess>
+      <description>For use with the HRH_CURR data element and indicators</description>
+      <dataDimension>true</dataDimension>
+      <lastUpdatedBy id="pFkDLjhIx10"/>
+      <user id="Uhsev5495GW"/>
+      <attributeValues>
+        <attributeValues>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValues>
+        <attributeValues>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValues>
+      </attributeValues>
+      <categoryOptionGroups>
+        <categoryOptionGroup id="VhZw0fqGo62"/>
+        <categoryOptionGroup id="DHYidOkXg3i"/>
+        <categoryOptionGroup id="gcjoYSmaDxQ"/>
+      </categoryOptionGroups>
+    </categoryOptionGroupSet>
+    <categoryOptionGroupSet created="2019-09-27T18:09:55.899" lastUpdated="2020-08-26T18:26:59.929" name="FY19 Cadres" id="gTL4e5w9N7e">
+      <dataDimensionType>ATTRIBUTE</dataDimensionType>
+      <publicAccess>r-------</publicAccess>
+      <dataDimension>false</dataDimension>
+      <lastUpdatedBy id="pFkDLjhIx10"/>
+      <user id="pFkDLjhIx10"/>
+      <attributeValues>
+        <attributeValues>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValues>
+        <attributeValues>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValues>
+      </attributeValues>
+      <categoryOptionGroups>
+        <categoryOptionGroup id="WD7Q4UpgY4a"/>
+        <categoryOptionGroup id="oDyCZq57lz9"/>
+        <categoryOptionGroup id="fkWXvuffkak"/>
+        <categoryOptionGroup id="uxcZPfzPnMM"/>
+        <categoryOptionGroup id="qdmQndCQyP6"/>
+        <categoryOptionGroup id="sgRB9mFExmS"/>
+        <categoryOptionGroup id="KybhSGNuYqM"/>
+      </categoryOptionGroups>
+    </categoryOptionGroupSet>
+    <categoryOptionGroupSet created="2020-08-25T19:41:43.942" lastUpdated="2020-08-26T18:26:14.238" name="Staff Cadre" id="Xr9VYfep54J">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <publicAccess>r-------</publicAccess>
+      <dataDimension>true</dataDimension>
+      <lastUpdatedBy id="pFkDLjhIx10"/>
+      <user id="pFkDLjhIx10"/>
+      <attributeValues>
+        <attributeValues>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValues>
+        <attributeValues>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValues>
+      </attributeValues>
+      <categoryOptionGroups>
+        <categoryOptionGroup id="WD7Q4UpgY4a"/>
+        <categoryOptionGroup id="oDyCZq57lz9"/>
+        <categoryOptionGroup id="fkWXvuffkak"/>
+        <categoryOptionGroup id="uxcZPfzPnMM"/>
+        <categoryOptionGroup id="qdmQndCQyP6"/>
+        <categoryOptionGroup id="sgRB9mFExmS"/>
+        <categoryOptionGroup id="KybhSGNuYqM"/>
+      </categoryOptionGroups>
+    </categoryOptionGroupSet>
   </categoryOptionGroupSets>
 </metadata>

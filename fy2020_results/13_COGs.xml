@@ -823,5 +823,195 @@
         </attributeValue>
       </attributeValues>
     </categoryOptionGroup>
+     <categoryOptionGroup created="2019-09-27T18:05:49.403" lastUpdated="2019-10-13T04:00:17.855" name="FY19 Staff Cadre - Clinical" id="WD7Q4UpgY4a" shortName="Staff Cadre - Clinical">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <publicAccess>r-------</publicAccess>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <user id="pFkDLjhIx10"/>
+      <attributeValues>
+        <attributeValues>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValues>
+        <attributeValues>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValues>
+      </attributeValues>
+      <categoryOptions>
+        <categoryOption id="H5ehNeZrTZS"/>
+      </categoryOptions>
+    </categoryOptionGroup>
+    <categoryOptionGroup created="2019-09-27T18:08:16.339" lastUpdated="2019-10-13T04:00:17.856" name="FY19 Staff Cadre - Laboratory" id="fkWXvuffkak" shortName="Staff Cadre - Laboratory">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <publicAccess>r-------</publicAccess>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <user id="pFkDLjhIx10"/>
+      <attributeValues>
+        <attributeValues>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValues>
+        <attributeValues>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValues>
+      </attributeValues>
+      <categoryOptions>
+        <categoryOption id="blpDpgNufE4"/>
+      </categoryOptions>
+    </categoryOptionGroup>
+    <categoryOptionGroup created="2019-09-27T18:06:33.611" lastUpdated="2019-10-13T04:00:17.857" name="FY19 Staff Cadre - Lay" id="sgRB9mFExmS" shortName="Staff Cadre - Lay">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <publicAccess>r-------</publicAccess>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <user id="pFkDLjhIx10"/>
+      <attributeValues>
+        <attributeValues>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValues>
+        <attributeValues>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValues>
+      </attributeValues>
+      <categoryOptions>
+        <categoryOption id="dYd81hDENOM"/>
+      </categoryOptions>
+    </categoryOptionGroup>
+    <categoryOptionGroup created="2019-09-27T18:07:22.099" lastUpdated="2019-10-13T04:00:17.858" name="FY19 Staff Cadre - Management" id="uxcZPfzPnMM" shortName="Staff Cadre - Management">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <publicAccess>r-------</publicAccess>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <user id="pFkDLjhIx10"/>
+      <attributeValues>
+        <attributeValues>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValues>
+        <attributeValues>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValues>
+      </attributeValues>
+      <categoryOptions>
+        <categoryOption id="yS5rtbJoEyz"/>
+      </categoryOptions>
+    </categoryOptionGroup>
+    <categoryOptionGroup created="2019-09-27T18:09:06.761" lastUpdated="2019-10-13T04:00:17.859" name="FY19 Staff Cadre - Other" id="KybhSGNuYqM" shortName="Staff Cadre - Other">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <publicAccess>r-------</publicAccess>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <user id="pFkDLjhIx10"/>
+      <attributeValues>
+        <attributeValues>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValues>
+        <attributeValues>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValues>
+      </attributeValues>
+      <categoryOptions>
+        <categoryOption id="kA1hF2llcK1"/>
+      </categoryOptions>
+    </categoryOptionGroup>
+    <categoryOptionGroup created="2019-09-27T18:07:49.264" lastUpdated="2019-10-13T04:00:17.860" name="FY19 Staff Cadre - Pharmacy" id="oDyCZq57lz9" shortName="Staff Cadre - Pharmacy">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <publicAccess>r-------</publicAccess>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <user id="pFkDLjhIx10"/>
+      <attributeValues>
+        <attributeValues>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValues>
+        <attributeValues>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValues>
+      </attributeValues>
+      <categoryOptions>
+        <categoryOption id="hP1iGK3ps7e"/>
+      </categoryOptions>
+    </categoryOptionGroup>
+    <categoryOptionGroup created="2019-09-27T18:08:48.761" lastUpdated="2019-10-13T04:00:17.861" name="FY19 Staff Cadre - Social Service" id="qdmQndCQyP6" shortName="Staff Cadre - Social Service">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <publicAccess>r-------</publicAccess>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <user id="pFkDLjhIx10"/>
+      <attributeValues>
+        <attributeValues>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValues>
+        <attributeValues>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValues>
+      </attributeValues>
+      <categoryOptions>
+        <categoryOption id="jWQX792nqfb"/>
+      </categoryOptions>
+    </categoryOptionGroup>
+    <categoryOptionGroup created="2019-01-03T07:30:30.241" lastUpdated="2019-09-29T04:09:11.562" name="Non-Monetary" id="DHYidOkXg3i" shortName="Non-Monetary">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <publicAccess>rw------</publicAccess>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <user id="Uhsev5495GW"/>
+      <attributeValues>
+        <attributeValues>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValues>
+        <attributeValues>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValues>
+      </attributeValues>
+      <categoryOptions>
+        <categoryOption id="fQtW0bEXyam"/>
+      </categoryOptions>
+    </categoryOptionGroup>
+    <categoryOptionGroup created="2019-01-03T07:29:23.749" lastUpdated="2019-09-29T04:09:11.618" name="Salary" id="VhZw0fqGo62" shortName="Salary">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <publicAccess>rw------</publicAccess>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <user id="Uhsev5495GW"/>
+      <attributeValues>
+        <attributeValues>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValues>
+        <attributeValues>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValues>
+      </attributeValues>
+      <categoryOptions>
+        <categoryOption id="BArD7ZeMLqk"/>
+      </categoryOptions>
+    </categoryOptionGroup>
+    <categoryOptionGroup created="2019-01-03T07:28:50.900" lastUpdated="2019-09-29T04:09:11.627" name="Stipend" id="gcjoYSmaDxQ" shortName="Stipend">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <publicAccess>rw------</publicAccess>
+      <lastUpdatedBy id="emeQ7kjx8Ve"/>
+      <user id="Uhsev5495GW"/>
+      <attributeValues>
+        <attributeValues>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValues>
+        <attributeValues>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValues>
+      </attributeValues>
+      <categoryOptions>
+        <categoryOption id="mbgahYbjSDk"/>
+      </categoryOptions>
+    </categoryOptionGroup>
   </categoryOptionGroups>
 </metadata>
