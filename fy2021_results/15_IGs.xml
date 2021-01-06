@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns="http://dhis2.org/schema/dxf/2.0">
+  <system>
+    <id>triage.testing.datim.org</id>
+    <rev>54458fd</rev>
+    <version>2.33.6</version>
+    <date>2020-09-23T18:53:58.111</date>
+  </system>
+  <indicatorGroups>
+    <indicatorGroup created="2019-12-26T17:53:24.009" lastUpdated="2020-04-02T19:26:48.417" name="FY21 Results Cleaning Favorite Indicators" id="SQ2FV7Vme5H">
+      <publicAccess>r-------</publicAccess>
+      <lastUpdatedBy id="AfY6s6e2D6C"/>
+      <user id="AfY6s6e2D6C"/>
+      <attributeValues>
+        <attributeValues>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValues>
+        <attributeValues>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValues>
+      </attributeValues>
+      <indicators>
+        <indicator id="knpE6ztsXFH"/>
+        <indicator id="TC8Rkh4fm9A"/>
+        <indicator id="K02qyyRIJwE"/>
+        <indicator id="Gtnk5odyy8L"/>
+        <indicator id="dvFNBScr7wH"/>
+        <indicator id="ChCwf7SJK42"/>
+        <indicator id="PXHpXM0RgKv"/>
+        <indicator id="SuG8tObDJAk"/>
+        <indicator id="XtGOzMZyR1A"/>
+        <indicator id="gJOzy80MBMS"/>
+        <indicator id="akpUkwbxDw9"/>
+        <indicator id="EGa3sX269ez"/>
+        <indicator id="gXDHlOFgnid"/>
+        <indicator id="V4NksENeWep"/>
+        <indicator id="uvnpppvSMcW"/>
+        <indicator id="sX2p1qzWxT2"/>
+        <indicator id="EvPhRQZY5rR"/>
+        <indicator id="if1ebNCkV46"/>
+        <indicator id="eCgqzv0SCRV"/>
+        <indicator id="beA43MjOjHL"/>
+        <indicator id="mAetwefkuS5"/>
+        <indicator id="xF43cyGh7Kq"/>
+        <indicator id="B9XU8GoyySf"/>
+        <indicator id="B3RSSZ1Zrjg"/>
+        <indicator id="KSPETPWWLgq"/>
+        <indicator id="ADw3CvP4MTH"/>
+        <indicator id="dqohnqITchz"/>
+        <indicator id="beA43MjOjHL"/>
+        <indicator id="mAetwefkuS5"/>
+        <indicator id="kci2ifwwgWl"/>
+        <indicator id="WPGMStCnHYr"/>
+        <indicator id="pWOLP5RACDU"/>
+      </indicators>
+    </indicatorGroup>
+  </indicatorGroups>
+</metadata>
