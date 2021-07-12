@@ -1,5 +1,7 @@
 # Public MER Metadata Repo
 
+**Repo Owner:** Sarah Searle [@ssearle-bao](https://github.com/ssearle-bao)
+
 ## Purpose 
 The purpose for sharing DATIM’s Metadata is to make it easier for Implementing Partners (IPs) and other interested users to collect and report PEPFAR MER data that conforms to DATIM requirements.
 
