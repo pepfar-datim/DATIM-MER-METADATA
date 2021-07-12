@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?><metadata xmlns="http://dhis2.org/schema/dxf/2.0"><system><id>5252e2d3.us-east-1.pepfar.bao.systems</id><rev>eeb5cb9</rev><version>2.30</version><date>2020-02-21T22:02:13.732</date></system><indicators><indicator lastUpdated="2020-02-20T21:07:17.444" id="qgAm2b7BL91" created="2020-02-20T21:07:17.444" name="COP20 Targets GEND_GBV Physical and Emotional Violence" shortName="COP20 GEND_GBV Physical and Emotional Violence"><publicAccess>r-------</publicAccess><denominatorDescription>Den</denominatorDescription><numeratorDescription>COP20 Targets GEND_GBV PandE</numeratorDescription><numerator>#{N4sS65QUOP3.rslp7ddiBzy}+#{XUtNKyPozHq.rslp7ddiBzy}</numerator><denominator>1</denominator><annualized>false</annualized><indicatorType id="QEjvmP5XVSn"/><lastUpdatedBy id="pFkDLjhIx10"/><user id="pFkDLjhIx10"/></indicator><indicator lastUpdated="2020-02-20T21:08:06.145" id="Te3rct9usu6" created="2020-02-20T21:08:06.145" name="COP20 Targets GEND_GBV Sexual Violence" shortName="COP20 GEND_GBV Sexual Violence"><publicAccess>r-------</publicAccess><denominatorDescription>Den</denominatorDescription><numeratorDescription>COP20 Targets GEND_GBV Sexual</numeratorDescription><numerator>#{N4sS65QUOP3.Cieg8r0FOGJ}+#{XUtNKyPozHq.Cieg8r0FOGJ}
+            </numerator><denominator>1</denominator><annualized>false</annualized><indicatorType id="QEjvmP5XVSn"/><lastUpdatedBy id="pFkDLjhIx10"/><user id="pFkDLjhIx10"/></indicator><indicator lastUpdated="2020-02-21T21:27:03.721" id="jTUBqFri0MA" created="2020-02-20T23:02:19.303" name="COP20 Targets TX_TB (D) Screen Negative" shortName=" COP20 Targets TX_TB (D) Screen Neg"><publicAccess>r-------</publicAccess><denominatorDescription>Den</denominatorDescription><numeratorDescription> COP20 Targets TX_TB screen neg</numeratorDescription><numerator>
+#{BeEA8PsZ8Ky.KcI8l7j9oeX}+
+#{BeEA8PsZ8Ky.yxdKq1ZC8fS}+
+#{BeEA8PsZ8Ky.JURc3Uxzcr9}+
+#{BeEA8PsZ8Ky.NrvW7I8iYbo}+
+#{DcQet8tM3my.KcI8l7j9oeX}+
+#{DcQet8tM3my.yxdKq1ZC8fS}+
+#{DcQet8tM3my.JURc3Uxzcr9}+
+#{DcQet8tM3my.NrvW7I8iYbo}+#{BeEA8PsZ8Ky.kCzjNAGH5GY}+
+#{BeEA8PsZ8Ky.DFLZuSpRYKv}+#{BeEA8PsZ8Ky.rktDV3ZuQjl}+
+#{BeEA8PsZ8Ky.u53iyNLwf4u}+#{DcQet8tM3my.kCzjNAGH5GY}+
+#{DcQet8tM3my.DFLZuSpRYKv}+#{DcQet8tM3my.rktDV3ZuQjl}+
+#{DcQet8tM3my.u53iyNLwf4u}
+
+
+
+
+
+</numerator><denominator>1</denominator><annualized>false</annualized><indicatorType id="QEjvmP5XVSn"/><lastUpdatedBy id="pFkDLjhIx10"/><user id="pFkDLjhIx10"/></indicator><indicator lastUpdated="2020-02-21T21:27:38.155" id="P8Sc19tmnAc" created="2020-02-06T17:33:00.579" name="COP20 Targets TX_TB (D) Screen Positive" shortName=" COP20 Targets TX_TB (D) Screen Pos"><publicAccess>r-------</publicAccess><denominatorDescription>Den</denominatorDescription><numeratorDescription> COP20 Targets TX_TB screen pos</numeratorDescription><numerator>#{BeEA8PsZ8Ky.qEv2Oi1bHsp}+#{BeEA8PsZ8Ky.qBj9XLbUigZ}+
+#{BeEA8PsZ8Ky.zpOXupkpl7i}+
+#{BeEA8PsZ8Ky.VyeN2c8Zdi4}+
+#{DcQet8tM3my.qEv2Oi1bHsp}+
+#{DcQet8tM3my.qBj9XLbUigZ}+
+#{DcQet8tM3my.zpOXupkpl7i}+
+#{DcQet8tM3my.VyeN2c8Zdi4}+#{BeEA8PsZ8Ky.BpjQgbuhZoo}+
+#{BeEA8PsZ8Ky.vsVKGzHxDua}+#{BeEA8PsZ8Ky.Y9GhVNf8jUd}+
+#{BeEA8PsZ8Ky.SZ3D287on4h}+#{DcQet8tM3my.BpjQgbuhZoo}+
+#{DcQet8tM3my.vsVKGzHxDua}+#{DcQet8tM3my.Y9GhVNf8jUd}+
+#{DcQet8tM3my.SZ3D287on4h}
+
+
+
+
+            </numerator><denominator>1</denominator><annualized>false</annualized><indicatorType id="QEjvmP5XVSn"/><lastUpdatedBy id="pFkDLjhIx10"/><user id="pFkDLjhIx10"/></indicator></indicators></metadata>
