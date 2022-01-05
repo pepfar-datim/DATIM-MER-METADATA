@@ -1,0 +1,2721 @@
+<?xml version="1.0" ?>
+<metadata>
+	<dataElements>
+		<dataElement id="hfR9r70Fk99" name="CXCA_SCRN (N, DSD, Age/Sex/HIVStatus) TARGET: On ART screened for cervical cancer." shortName="CXCA_SCRN (N, DSD, Age/Sex/HIVStatus) TARGET" code="CXCA_SCRN_N_DSD_Age_Sex_HIVStatus_TARGET">
+			<description>Target Number of HIV-positive women on ART screened for cervical cancer</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="E1evUFrsCog"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="wQ5XOuU0LVH" name="CXCA_SCRN (N, TA, Age/Sex/HIVStatus) TARGET: On ART screened for cervical cancer." shortName="CXCA_SCRN (N, TA, Age/Sex/HIVStatus) TARGET" code="CXCA_SCRN_N_TA_Age_Sex_HIVStatus_TARGET">
+			<description>Target Number of HIV-positive women on ART screened for cervical cancer</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="E1evUFrsCog"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="N4sS65QUOP3" name="GEND_GBV (N, DSD, ViolenceServiceType) TARGET v2: GBV Care" shortName="GEND_GBV (N, DSD, ViolenceServiceType) TARGET v2" code="GEND_GBV_N_DSD_ViolenceServiceType_TARGET_v2">
+			<description>Target Number of people receiving post-GBV care based on the minimum package</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="c7bzLBhaiPQ"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="XUtNKyPozHq" name="GEND_GBV (N, TA, ViolenceServiceType) TARGET v2: GBV Care" shortName="GEND_GBV (N, TA, ViolenceServiceType) TARGET v2" code="GEND_GBV_N_TA_ViolenceServiceType_TARGET_v2">
+			<description>Target Number of people receiving post-GBV care based on the minimum package</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="c7bzLBhaiPQ"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="uh9PhdnIkHp" name="HTS_INDEX (N, DSD, Index/Age/Sex/Result) TARGET: HTS Result" shortName="HTS_INDEX (N, DSD, Index/Age/Sex/Result) TARGET" code="HTS_INDEX_N_DSD_Index_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who were identified and tested using index testing services and received their results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="Ynr2qtl6WB9"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="A2eyuXZUCEk" name="HTS_INDEX (N, TA, Index/Age/Sex/Result) TARGET: HTS Result" shortName="HTS_INDEX (N, TA, Index/Age/Sex/Result) TARGET" code="HTS_INDEX_N_TA_Index_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who were identified and tested using index testing services and received their results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="Ynr2qtl6WB9"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="zjWvbsJM43i" name="HTS_INDEX (N, DSD, IndexMod/Age/Sex/Result) TARGET: HTS Result" shortName="HTS_INDEX (N, DSD, IndexMod/Age/Sex/Result) TARGET" code="HTS_INDEX_N_DSD_IndexMod_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who were identified and tested using index testing services and received their results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="Ynr2qtl6WB9"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="Wa2oJtmc0CE" name="HTS_INDEX (N, TA, IndexMod/Age/Sex/Result) TARGET: HTS Result" shortName="HTS_INDEX (N, TA, IndexMod/Age/Sex/Result) TARGET" code="HTS_INDEX_N_TA_IndexMod_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who were identified and tested using index testing services and received their results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="Ynr2qtl6WB9"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="IRrwpjKx7ye" name="HTS_RECENT (N, DSD, SNS/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, DSD, SNS/Age/Sex/RTRI/HIV) TARGET" code="HTS_RECENT_N_DSD_SNS_Age_Sex_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="dCS5eK7N31F" name="HTS_RECENT (N, TA, SNS/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, TA, SNS/Age/Sex/RTRI/HIV) TARGET" code="HTS_RECENT_N_TA_SNS_Age_Sex_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="olULPdHspqP" name="HTS_RECENT (N, DSD, SNSMod/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, DSD, SNSMod/Age/Sex/RTRI/HV) TARGET" code="HTS_RECENT_N_DSD_SNSMod_Age_Sex_RTRI_HV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="i4ilzanYtHD" name="HTS_RECENT (N, TA, SNSMod/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, TA, SNSMod/Age/Sex/RTRI/HV) TARGET" code="HTS_RECENT_N_TA_SNSMod_Age_Sex_RTRI_HV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="y42bZItNsea" name="HTS_RECENT (N, DSD, KeyPop/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, DSD, KeyPop/HIVStatus) TARGET" code="HTS_RECENT_N_DSD_KeyPop_HIVStatus_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="JQvyWrTQJlo"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="uZ2UTVh2wkJ" name="HTS_RECENT (N, TA, KeyPop/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, TA, KeyPop/HIVStatus) TARGET" code="HTS_RECENT_N_TA_KeyPop_HIVStatus_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="JQvyWrTQJlo"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="J1BAupscTaW" name="HTS_RECENT (N, DSD, Index/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, DSD, Index/Age/Sex/RTRI/HIV) TARGET" code="HTS_RECENT_N_DSD_Index_Age_Sex_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="odyWaFzVFFt" name="HTS_RECENT (N, TA, Index/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, TA, Index/Age/Sex/RTRI/HIV) TARGET" code="HTS_RECENT_N_TA_Index_Age_Sex_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="isc6NmtIRN6" name="HTS_RECENT (N, DSD, Emergency Ward/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, DSD, EM/Age/Sex/RTRI/HIV) TARGET" code="HTS_RECENT_N_DSD_EM_Age_Sex_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="ZNMNKgHs4KO" name="HTS_RECENT (N, TA, Emergency Ward/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, TA, EM/Age/Sex/RTRI/HIV) TARGET" code="HTS_RECENT_N_TA_EM_Age_Sex_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="LqBvfeIM16u" name="HTS_RECENT (N, DSD, Inpat/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, DSD, Inpat/Age/Sex/RTRI/HIV) TARGET" code="HTS_RECENT_N_DSD_Inpat_Age_Sex_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="JHvmBrMCjy7" name="HTS_RECENT (N, TA, Inpat/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, TA, Inpat/Age/Sex/RTRI/HIV) TARGET" code="HTS_RECENT_N_TA_Inpat_Age_Sex_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="J1fW7eRVAvg" name="HTS_RECENT (N, DSD, PMTCT ANC/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, DSD, PMTCT O/A/S/RTRI/HIV) TARGET" code="HTS_RECENT_N_DSD_PMTCT_O_A_S_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="ICfpR6tTRav" name="HTS_RECENT (N, TA, PMTCT ANC/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, TA, PMTCT O/A/S/RTRI/HIV) TARGET" code="HTS_RECENT_N_TA_PMTCT_O_A_S_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="plNFWb5y1xZ" name="HTS_RECENT (N, DSD, PMTCT PostANC/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, DSD, PMTCT P/A/S/RTRI/HIV) TARGET" code="HTS_RECENT_N_DSD_PMTCT_P_A_S_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="OJRxJ6RKD1Y" name="HTS_RECENT (N, TA, PMTCT PostANC/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, TA, PMTCT P/A/S/RTRI/HIV) TARGET" code="HTS_RECENT_N_TA_PMTCT_P_A_S_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="eb2ZBmNFOHl" name="HTS_RECENT (N, DSD, STI Clinic/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, DSD, STI/Age/Sex/RTRI/HIV) TARGET" code="HTS_RECENT_N_DSD_STI_Age_Sex_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="z6GXOWXNpjr" name="HTS_RECENT (N, TA, STI Clinic/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, TA, STI/Age/Sex/RTRI/HIV) TARGET" code="HTS_RECENT_N_TA_STI_Age_Sex_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="UXsJUOYhGKw" name="HTS_RECENT (N, DSD, TBClinic/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, DSD, TB/Age/Sex/RTRI/HIV) TARGET" code="HTS_RECENT_N_DSD_TB_Age_Sex_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="kvpanmX8jqF" name="HTS_RECENT (N, TA, TBClinic/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, TA, TB/Age/Sex/RTRI/HIV) TARGET" code="HTS_RECENT_N_TA_TB_Age_Sex_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="eobYc4wjsBv" name="HTS_RECENT (N, DSD, VCT/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, DSD, VCT/Age/Sex/RTRI/HIV) TARGET" code="HTS_RECENT_N_DSD_VCT_Age_Sex_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="c7RGWvHw00d" name="HTS_RECENT (N, TA, VCT/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, TA, VCT/Age/Sex/RTRI/HIV) TARGET" code="HTS_RECENT_N_TA_VCT_Age_Sex_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="XDT2DJvZo7s" name="HTS_RECENT (N, DSD, VMMC/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, DSD, VMMC/Age/Sex/RTRI/HIV) TARGET" code="HTS_RECENT_N_DSD_VMMC_Age_Sex_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="PiXbpFs1eHW" name="HTS_RECENT (N, TA, VMMC/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, TA, VMMC/Age/Sex/RTRI/HIV) TARGET" code="HTS_RECENT_N_TA_VMMC_Age_Sex_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="VTV9sGJ4UG9" name="HTS_RECENT (N, DSD, OtherPITC/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, DSD, Other/Age/Sex/RTRI/HIV) TARGET" code="HTS_RECENT_N_DSD_Other_Age_Sex_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="vcs4BFXyhMY" name="HTS_RECENT (N, TA, OtherPITC/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, TA, Other/Age/Sex/RTRI/HIV) TARGET" code="HTS_RECENT_N_TA_Other_Age_Sex_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="LIAjiT4jTs6" name="HTS_RECENT (N, DSD, IndexMod/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, DSD, IndexMod/A/S/RTRI/HIV) TARGET" code="HTS_RECENT_N_DSD_IndexMod_A_S_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="oaZYhkz7cFQ" name="HTS_RECENT (N, TA, IndexMod/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, TA, IndexMod/A/S/RTRI/HIV) TARGET" code="HTS_RECENT_N_TA_IndexMod_A_S_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="VczqDKZHGPM" name="HTS_RECENT (N, DSD, MobileMod/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, DSD, MobileMod/A/S/RTRI/HIV) TARGET" code="HTS_RECENT_N_DSD_MobileMod_A_S_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="t7g2D0Wcbh2" name="HTS_RECENT (N, TA, MobileMod/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, TA, MobileMod/A/S/RTRI/HIV) TARGET" code="HTS_RECENT_N_TA_MobileMod_A_S_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="CsS3NWTqfpu" name="HTS_RECENT (N, DSD, OtherMod/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, DSD, OtherMod/A/S/RTRI/HIV) TARGET" code="HTS_RECENT_N_DSD_OtherMod_A_S_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="Y7ZamXjNycI" name="HTS_RECENT (N, TA, OtherMod/Age/Sex/HIVStatus) TARGET: HIV recency test" shortName="HTS_RECENT (N, TA, OtherMod/A/S/RTRI/HIV) TARGET" code="HTS_RECENT_N_TA_OtherMod_A_S_RTRI_HIV_TARGET">
+			<description>Target Number of newly diagnosed HIV-positive persons aged greater than or equal to &gt;_ 15yrs with a test for recent infection result during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="qL1qysWLZoq" name="HTS_SELF (N, DSD, KeyPop) TARGET: HIV self test kits distributed" shortName="HTS_SELF (N, DSD, KeyPop) TARGET" code="HTS_SELF_N_DSD_KeyPop_TARGET">
+			<description>Target Number of individual HIV self-test kits distributed</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="dxZWNGz93Js"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="Hx5jjGAdVsT" name="HTS_SELF (N, TA, KeyPop) TARGET: HIV self test kits distributed" shortName="HTS_SELF (N, TA, KeyPop) TARGET" code="HTS_SELF_N_TA_KeyPop_TARGET">
+			<description>Target Number of individual HIV self-test kits distributed</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="dxZWNGz93Js"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="r9N46a1q942" name="HTS_SELF (N, DSD, Age/Sex) TARGET: HIV self test kits distributed" shortName="HTS_SELF (N, DSD, Age/Sex) TARGET" code="HTS_SELF_N_DSD_Age_Sex_TARGET">
+			<description>Target Number of individual HIV self-test kits distributed</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="Auz9G1lgPSX"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="NcMMbbymtij" name="HTS_SELF (N, TA, Age/Sex) TARGET: HIV self test kits distributed" shortName="HTS_SELF (N, TA, Age/Sex) TARGET" code="HTS_SELF_N_TA_Age_Sex_TARGET">
+			<description>Target Number of individual HIV self-test kits distributed</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="Auz9G1lgPSX"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="L7WtGlktM3V" name="HTS_TST (N, DSD, SNS/Age/Sex/Result) TARGET: HTS received results" shortName="HTS_TST (N, DSD, SNS/Age/Sex/Result) TARGET" code="HTS_TST_N_DSD_SNS_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="qKePLJSRLgS"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="ut2wnnl1wHd" name="HTS_TST (N, TA, SNS/Age/Sex/Result) TARGET: HTS received results" shortName="HTS_TST (N, TA, SNS/Age/Sex/Result) TARGET" code="HTS_TST_N_TA_SNS_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="qKePLJSRLgS"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="w9SZ1C4cYZH" name="HTS_TST (N, DSD, SNSMod/Age/Sex/Result) TARGET: HTS received results" shortName="HTS_TST (N, DSD, SNSMod/Age/Sex/Result) TARGET" code="HTS_TST_N_DSD_SNSMod_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="qKePLJSRLgS"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="zvvb5B8E4XP" name="HTS_TST (N, TA, SNSMod/Age/Sex/Result) TARGET: HTS received results" shortName="HTS_TST (N, TA, SNSMod/Age/Sex/Result) TARGET" code="HTS_TST_N_TA_SNSMod_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="qKePLJSRLgS"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="Ea3rt2Nb0QG" name="HTS_TST (N, DSD, Emergency Ward/Age/Sex/Result) TARGET: HTS received results" shortName="HTS_TST (N, DSD, EW/Age/Sex/Result) TARGET" code="HTS_TST_N_DSD_EW_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="qKePLJSRLgS"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="W680huEe6Hw" name="HTS_TST (N, TA, Emergency Ward/Age/Sex/Result) TARGET: HTS received results" shortName="HTS_TST (N, TA, EW/Age/Sex/Result) TARGET" code="HTS_TST_N_TA_EW_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="qKePLJSRLgS"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="ydi7w5XUSNn" name="HTS_TST (N, DSD, Inpat/Age/Sex/Result) TARGET: HTS received results" shortName="HTS_TST (N, DSD, Inpat/Age/Sex/Result) TARGET" code="HTS_TST_N_DSD_Inpat_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="qKePLJSRLgS"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="aMnJ58kqylT" name="HTS_TST (N, TA, Inpat/Age/Sex/Result) TARGET: HTS received results" shortName="HTS_TST (N, TA, Inpat/Age/Sex/Result) TARGET" code="HTS_TST_N_TA_Inpat_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="qKePLJSRLgS"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="ef1o9r1kDIH" name="HTS_TST (N, DSD, KeyPop/Result) TARGET: HTS received results" shortName="HTS_TST (N, DSD, KeyPop/Result) TARGET" code="HTS_TST_N_DSD_KeyPop_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="DVHGosLpTY9"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="MA4lEpgzAxS" name="HTS_TST (N, TA, KeyPop/Result) TARGET: HTS received results" shortName="HTS_TST (N, TA, KeyPop/Result) TARGET" code="HTS_TST_N_TA_KeyPop_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="DVHGosLpTY9"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="YQmTFDhOXza" name="HTS_TST (N, DSD, Malnutrition/Age/Sex/Result) TARGET: HTS received results" shortName="HTS_TST (N, DSD, MN/Age/Sex/Result) TARGET" code="HTS_TST_N_DSD_MN_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="YsrFQ6Ge42q"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="n32vXYJ6Wkn" name="HTS_TST (N, TA, Malnutrition/Age/Sex/Result) TARGET: HTS received results" shortName="HTS_TST (N, TA, MN/Age/Sex/Result) TARGET" code="HTS_TST_N_TA_MN_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="YsrFQ6Ge42q"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="SpiiKPXh98N" name="HTS_TST (N, DSD, MobileMod/Age/Sex/Result) TARGET: HTS received results" shortName="HTS_TST (N, DSD, MbMod/Age/Sex/Result) TARGET" code="HTS_TST_N_DSD_MbMod_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="qKePLJSRLgS"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="oZ4YhB1Fkgk" name="HTS_TST (N, TA, MobileMod/Age/Sex/Result) TARGET: HTS received results" shortName="HTS_TST (N, TA, MbMod/Age/Sex/Result) TARGET" code="HTS_TST_N_TA_MbMod_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="qKePLJSRLgS"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="TCNNxKm4KZb" name="HTS_TST (N, DSD, OtherMod/Age/Sex/Result) TARGET: HTS received results" shortName="HTS_TST (N, DSD, OtrMod/Age/Sex/Result) TARGET" code="HTS_TST_N_DSD_OtrMod_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="qKePLJSRLgS"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="VIhAZvOIQRL" name="HTS_TST (N, TA, OtherMod/Age/Sex/Result) TARGET: HTS received results" shortName="HTS_TST (N, TA, OtrMod/Age/Sex/Result) TARGET" code="HTS_TST_N_TA_OtrMod_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="qKePLJSRLgS"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="gwHmP4hr3DP" name="HTS_TST (N, DSD, OtherPITC/Age/Sex/Result) TARGET: HTS received results" shortName="HTS_TST (N, DSD, OtPITC/Age/Sex/Result) TARGET" code="HTS_TST_N_DSD_OtPITC_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="qKePLJSRLgS"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="nmaqnOpWT1h" name="HTS_TST (N, TA, OtherPITC/Age/Sex/Result) TARGET: HTS received results" shortName="HTS_TST (N, TA, OtPITC/Age/Sex/Result) TARGET" code="HTS_TST_N_TA_OtPITC_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="qKePLJSRLgS"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="N0j5TDUdTHQ" name="HTS_TST (N, DSD, Pediatric/Age/Sex/Result) TARGET: HTS received results" shortName="HTS_TST (N, DSD, Pediatric/Age/Sex/Result) TARGET" code="HTS_TST_N_DSD_Pediatric_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="YsrFQ6Ge42q"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="Jsv1CQ3JbCy" name="HTS_TST (N, TA, Pediatric/Age/Sex/Result) TARGET: HTS received results" shortName="HTS_TST (N, TA, Pediatric/Age/Sex/Result) TARGET" code="HTS_TST_N_TA_Pediatric_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="YsrFQ6Ge42q"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="JDdf06ZTwyz" name="HTS_TST (N, DSD, STI Clinic/Age/Sex/Result) TARGET: HTS received results" shortName="HTS_TST (N, DSD, STI/Age/Sex/Result) TARGET" code="HTS_TST_N_DSD_STI_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="qKePLJSRLgS"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="Jky7p2XOCNk" name="HTS_TST (N, TA, STI Clinic/Age/Sex/Result) TARGET: HTS received results" shortName="HTS_TST (N, TA, STI/Age/Sex/Result) TARGET" code="HTS_TST_N_TA_STI_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="qKePLJSRLgS"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="pfijmxjaMhp" name="HTS_TST (N, DSD, VCT/Age/Sex/Result) TARGET: HTS received results" shortName="HTS_TST (N, DSD, VCT/Age/Sex/Result) TARGET" code="HTS_TST_N_DSD_VCT_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="qKePLJSRLgS"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="CXM6vjMKs8r" name="HTS_TST (N, TA, VCT/Age/Sex/Result) TARGET: HTS received results" shortName="HTS_TST (N, TA, VCT/Age/Sex/Result) TARGET" code="HTS_TST_N_TA_VCT_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="qKePLJSRLgS"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="dd2WtJJxFYj" name="HTS_TST (N, DSD, PMTCT PostANC/Age/Sex/Result) TARGET: HTS received results" shortName="HTS_TST (N, DSD, PMTCT P/Age/Sex/Result) TARGET" code="HTS_TST_N_DSD_PMTCT_P_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="rcyH8qsC2AZ"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="CrhtWrSnb2D" name="HTS_TST (N, TA, PMTCT PostANC/Age/Sex/Result) TARGET: HTS received results" shortName="HTS_TST (N, TA, PMTCT P/Age/Sex/Result) TARGET" code="HTS_TST_N_TA_PMTCT_P_Age_Sex_Result_TARGET">
+			<description>Target Number of individuals who received HIV Testing Services (HTS) and received their test results</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="rcyH8qsC2AZ"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="gG0fbMLqEB5" name="KP_MAT (N, DSD, Sex) TARGET: PWID on MAT" shortName="KP_MAT (N, DSD, Sex) TARGET" code="KP_MAT_N_DSD_Sex_TARGET">
+			<description>Target Number of people who inject drugs (PWID) who are receiving medication assisted therapy (MAT)</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="R1rzmp9ROky"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="KJZrqS4XcJ2" name="KP_MAT (N, TA, Sex) TARGET: PWID on MAT" shortName="KP_MAT (N, TA, Sex) TARGET" code="KP_MAT_N_TA_Sex_TARGET">
+			<description>Target Number of people who inject drugs (PWID) who are receiving medication assisted therapy (MAT)</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="R1rzmp9ROky"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="wDWUutgeEX8" name="KP_PREV (N, DSD, KeyPop) TARGET v2: Key Pop Preventive" shortName="KP_PREV (N, DSD, KeyPop) TARGET v2" code="KP_PREV_N_DSD_KeyPop_TARGET_v2">
+			<description>Target Number of key populations reached with individual and/or small group-level HIV prevention interventions designed for the target population</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="dxZWNGz93Js"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="VRgwEePUvdD" name="KP_PREV (N, TA, KeyPop) TARGET v2: Key Pop Preventive" shortName="KP_PREV (N, TA, KeyPop) TARGET v2" code="KP_PREV_N_TA_KeyPop_TARGET_v2">
+			<description>Target Number of key populations reached with individual and/or small group-level HIV prevention interventions designed for the target population</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="dxZWNGz93Js"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="TqpIEl7LfV7" name="OVC_HIVSTAT (N, DSD) TARGET: OVC Disclosed Known HIV Status" shortName="OVC_HIVSTAT (N, DSD) TARGET" code="OVC_HIVSTAT_N_DSD_TARGET">
+			<description>Target Number of OVC with HIV status reported to implementing partner (including status not reported)</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="bjDvmb4bfuf"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="Tp792ZiaQed" name="OVC_HIVSTAT (N, TA) TARGET: OVC Disclosed Known HIV Status" shortName="OVC_HIVSTAT (N, TA) TARGET" code="OVC_HIVSTAT_N_TA_TARGET">
+			<description>Target Number of OVC with HIV status reported to implementing partner (including status not reported)</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="bjDvmb4bfuf"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="cx8hxarh4Ke" name="OVC_SERV (N, DSD, Age/Sex/ProgramStatusCaregiver) TARGET: Beneficiaries Served" shortName="OVC_SERV (N, DSD, Age/Sex/PSCaregiver) TARGET" code="OVC_SERV_N_DSD_Age_Sex_PSCaregiver_TARGET">
+			<description>Target Number of beneficiaries served by PEPFAR OVC programs for children and families affected by HIV/AIDS</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="H0W67wrICM4"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="TIuD9nSQAd9" name="OVC_SERV (N, TA, Age/Sex/ProgramStatusCaregiver) TARGET: Beneficiaries Served" shortName="OVC_SERV (N, TA, Age/Sex/PSCaregiver) TARGET" code="OVC_SERV_N_TA_Age_Sex_PSCaregiver_TARGET">
+			<description>Target Number of beneficiaries served by PEPFAR OVC programs for children and families affected by HIV/AIDS</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="H0W67wrICM4"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="j3NQAv8Fe3v" name="OVC_SERV (N, DSD, Age/Sex/DREAMS) TARGET: Beneficiaries Served" shortName="OVC_SERV (N, DSD, Age/Sex/DREAMS) TARGET" code="OVC_SERV_N_DSD_Age_Sex_DREAMS_TARGET">
+			<description>Target Number of beneficiaries served by PEPFAR OVC programs for children and families affected by HIV/AIDS</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="vKBWjLzTDZJ"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="DsIC5hZsqDF" name="OVC_SERV (N, TA, Age/Sex/DREAMS) TARGET: Beneficiaries Served" shortName="OVC_SERV (N, TA, Age/Sex/DREAMS) TARGET" code="OVC_SERV_N_TA_Age_Sex_DREAMS_TARGET">
+			<description>Target Number of beneficiaries served by PEPFAR OVC programs for children and families affected by HIV/AIDS</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="vKBWjLzTDZJ"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="NbvZdpPzNf6" name="OVC_SERV (N, DSD, Age/Sex/Preventive) TARGET: Beneficiaries Served" shortName="OVC_SERV (N, DSD, Age/Sex/Preventive) TARGET" code="OVC_SERV_N_DSD_Age_Sex_Preventive_TARGET">
+			<description>Target Number of beneficiaries served by PEPFAR OVC programs for children and families affected by HIV/AIDS</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="pwqXbZ5FEfY"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="ZTN9wn0OQt1" name="OVC_SERV (N, TA, Age/Sex/Preventive) TARGET: Beneficiaries Served" shortName="OVC_SERV (N, TA, Age/Sex/Preventive) TARGET" code="OVC_SERV_N_TA_Age_Sex_Preventive_TARGET">
+			<description>Target Number of beneficiaries served by PEPFAR OVC programs for children and families affected by HIV/AIDS</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="pwqXbZ5FEfY"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="HVzzfyVVIs1" name="OVC_SERV (N, DSD, Age/Sex/ProgramStatus) TARGET: Beneficiaries Served" shortName="OVC_SERV (N, DSD, Age/Sex/ProgramStatus) TARGET" code="OVC_SERV_N_DSD_Age_Sex_ProgramStatus_TARGET">
+			<description>Target Number of beneficiaries served by PEPFAR OVC programs for children and families affected by HIV/AIDS</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="KH515hOcUS8"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="Qk8HjZeOBom" name="OVC_SERV (N, TA, Age/Sex/ProgramStatus) TARGET: Beneficiaries Served" shortName="OVC_SERV (N, TA, Age/Sex/ProgramStatus) TARGET" code="OVC_SERV_N_TA_Age_Sex_ProgramStatus_TARGET">
+			<description>Target Number of beneficiaries served by PEPFAR OVC programs for children and families affected by HIV/AIDS</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="KH515hOcUS8"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="qesr9meNVYc" name="PMTCT_ART (N, DSD, Age/Sex/NewExistingArt/HIVStatus) TARGET: ART" shortName="PMTCT_ART (N, DSD, Age/Sex/NewExistArt/HIV) TARGET" code="PMTCT_ART_N_DSD_Age_Sex_NewExistArt_HIV_TARGET">
+			<description>Target Number of HIV-positive pregnant women who received ART to reduce the risk of mother-to-child-transmission during pregnancy</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="rFarVcEuKlX"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="vsudHZwmvb2" name="PMTCT_ART (N, TA, Age/Sex/NewExistingArt/HIVStatus) TARGET: ART" shortName="PMTCT_ART (N, TA, Age/Sex/NewExistArt/HIV) TARGET" code="PMTCT_ART_N_TA_Age_Sex_NewExistArt_HIV_TARGET">
+			<description>Target Number of HIV-positive pregnant women who received ART to reduce the risk of mother-to-child-transmission during pregnancy</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="rFarVcEuKlX"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="euzbW4INAqn" name="PMTCT_EID (N, DSD, Age) TARGET: Infant Testing" shortName="PMTCT_EID (N, DSD, Age) TARGET" code="PMTCT_EID_N_DSD_Age_TARGET">
+			<description>Target Number of infants who had a virologic HIV test within 12 months of birth during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="hVswD64LbtW"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="aFPTXEOa7nu" name="PMTCT_EID (N, TA, Age) TARGET: Infant Testing" shortName="PMTCT_EID (N, TA, Age) TARGET" code="PMTCT_EID_N_TA_Age_TARGET">
+			<description>Target Number of infants who had a virologic HIV test within 12 months of birth during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="hVswD64LbtW"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="f10j57Ifd7k" name="PMTCT_STAT (D, DSD, Age/Sex) TARGET: New ANC clients" shortName="PMTCT_STAT (D, DSD, Age/Sex) TARGET" code="PMTCT_STAT_D_DSD_Age_Sex_TARGET">
+			<description>Target Percentage of pregnant women with known HIV status at antenatal care (includes those who already knew their HIV status prior to ANC)</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="AoWbpQLbBBp"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="bu3sosk4HWn" name="PMTCT_STAT (D, TA, Age/Sex) TARGET: New ANC clients" shortName="PMTCT_STAT (D, TA, Age/Sex) TARGET" code="PMTCT_STAT_D_TA_Age_Sex_TARGET">
+			<description>Target Percentage of pregnant women with known HIV status at antenatal care (includes those who already knew their HIV status prior to ANC)</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="AoWbpQLbBBp"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="Qdn0vmNSflO" name="PMTCT_STAT (N, DSD, Age/Sex/KnownNewResult) TARGET: Known Results" shortName="PMTCT_STAT (N, DSD, Age/Sex/KnownNewResult) TARGET" code="PMTCT_STAT_N_DSD_Age_Sex_KnownNewResult_TARGET">
+			<description>Target Percentage of pregnant women with known HIV status at antenatal care (includes those who already knew their HIV status prior to ANC)</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="CwdpUfwQJ98"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="mfYq3HGUIX3" name="PMTCT_STAT (N, TA, Age/Sex/KnownNewResult) TARGET: Known Results" shortName="PMTCT_STAT (N, TA, Age/Sex/KnownNewResult) TARGET" code="PMTCT_STAT_N_TA_Age_Sex_KnownNewResult_TARGET">
+			<description>Target Percentage of pregnant women with known HIV status at antenatal care (includes those who already knew their HIV status prior to ANC)</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="CwdpUfwQJ98"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="LpkXILJwnmO" name="PP_PREV (N, DSD, Age/Sex) TARGET v3: HIV Prevention Program" shortName="PP_PREV (N, DSD, Age/Sex) TARGET v3" code="PP_PREV_N_DSD_Age_Sex_TARGET_v3">
+			<description>Target Number of priority populations reached with standard HIV prevention intervention(s) that are evidence-based</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="Auz9G1lgPSX"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="HV0zRuYnuv8" name="PP_PREV (N, TA, Age/Sex) TARGET v3: HIV Prevention Program" shortName="PP_PREV (N, TA, Age/Sex) TARGET v3" code="PP_PREV_N_TA_Age_Sex_TARGET_v3">
+			<description>Target Number of priority populations reached with standard HIV prevention intervention(s) that are evidence-based</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="Auz9G1lgPSX"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="agoURWZyPpn" name="PrEP_CT (N, DSD, Age/Sex) TARGET: Receiving PrEP" shortName="PrEP_CT (N, DSD, Age/Sex) TARGET" code="PrEP_CT_N_DSD_Age_Sex_TARGET">
+			<description>Target Number of individuals, including those newly enrolled, receiving oral PrEP during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="USniQRTQRnY"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="G7SQxPyGfFo" name="PrEP_CT (N, TA, Age/Sex) TARGET: Receiving PrEP" shortName="PrEP_CT (N, TA, Age/Sex) TARGET" code="PrEP_CT_N_TA_Age_Sex_TARGET">
+			<description>Target Number of individuals, including those newly enrolled, receiving oral PrEP during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="USniQRTQRnY"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="bwlf1Jfww0L" name="PrEP_CT (N, DSD, KeyPop) TARGET: Receiving PrEP" shortName="PrEP_CT (N, DSD, KeyPop) TARGET" code="PrEP_CT_N_DSD_KeyPop_TARGET">
+			<description>Target Number of individuals, including those newly enrolled, receiving oral PrEP during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="dxZWNGz93Js"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="GlyNHRiJTOu" name="PrEP_CT (N, TA, KeyPop) TARGET: Receiving PrEP" shortName="PrEP_CT (N, TA, KeyPop) TARGET" code="PrEP_CT_N_TA_KeyPop_TARGET">
+			<description>Target Number of individuals, including those newly enrolled, receiving oral PrEP during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="dxZWNGz93Js"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="rXV784LlUQ4" name="PrEP_NEW (N, DSD, Age/Sex) TARGET v2: Newly Enrolled PrEP" shortName="PrEP_NEW (N, DSD, Age/Sex) TARGET v2" code="PrEP_NEW_N_DSD_Age_Sex_TARGET_v2">
+			<description>Target Number of individuals who have been newly enrolled on oral antiretroviral pre-exposure prophylaxis (PrEP) in the reporting period to prevent HIV infection</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="USniQRTQRnY"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="DjW93zhi4zZ" name="PrEP_NEW (N, TA, Age/Sex) TARGET v2: Newly Enrolled PrEP" shortName="PrEP_NEW (N, TA, Age/Sex) TARGET v2" code="PrEP_NEW_N_TA_Age_Sex_TARGET_v2">
+			<description>Target Number of individuals who have been newly enrolled on oral antiretroviral pre-exposure prophylaxis (PrEP) in the reporting period to prevent HIV infection</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="USniQRTQRnY"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="lXqlw8UxoqF" name="PrEP_NEW (N, DSD, KeyPop) TARGET: Newly Enrolled PrEP" shortName="PrEP_NEW (N, DSD, KeyPop) TARGET" code="PrEP_NEW_N_DSD_KeyPop_TARGET">
+			<description>Target Number of individuals who have been newly enrolled on oral antiretroviral pre-exposure prophylaxis (PrEP) in the reporting period to prevent HIV infection</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="dxZWNGz93Js"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="gdHE7Kk9Q1k" name="PrEP_NEW (N, TA, KeyPop) TARGET: Newly Enrolled PrEP" shortName="PrEP_NEW (N, TA, KeyPop) TARGET" code="PrEP_NEW_N_TA_KeyPop_TARGET">
+			<description>Target Number of individuals who have been newly enrolled on oral antiretroviral pre-exposure prophylaxis (PrEP) in the reporting period to prevent HIV infection</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="dxZWNGz93Js"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="hJeWl5XjzgM" name="TB_ART (N, DSD, Age/Sex/NewExistingArt/HIVStatus) TARGET: Registered TB/HIV" shortName="TB_ART (N, DSD, Age/Sex/NewExArt/HIV) TARGET" code="TB_ART_N_DSD_Age_Sex_NewExArt_HIV_TARGET">
+			<description>Target Number of TB cases with documented HIV-positive status who start or continue ART during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="vyCxt8An698"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="VVixfmL4Try" name="TB_ART (N, TA, Age/Sex/NewExistingArt/HIVStatus) TARGET: Registered TB/HIV" shortName="TB_ART (N, TA, Age/Sex/NewExArt/HIV) TARGET" code="TB_ART_N_TA_Age_Sex_NewExArt_HIV_TARGET">
+			<description>Target Number of TB cases with documented HIV-positive status who start or continue ART during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="vyCxt8An698"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="DA7uTAScxxi" name="TB_PREV (N, DSD, Age/Sex/NewExistingArt/HIVStatus) TARGET: IPT" shortName="TB_PREV (N, DSD, Age/Sex/NewExArt/HIV) TARGET" code="TB_PREV_N_DSD_Age_Sex_NewExArt_HIV_TARGET">
+			<description>Target Number of ART patients who are expected to complete a course of TB preventive therapy during the reporting period (for programs using continuous IPT, this includes only the patients who are scheduled to complete the first 6 months of therapy)</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="xyPI9PwXxY9"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="MdqPezsikDr" name="TB_PREV (N, TA, Age/Sex/NewExistingArt/HIVStatus) TARGET: IPT" shortName="TB_PREV (N, TA, Age/Sex/NewExArt/HIV) TARGET" code="TB_PREV_N_TA_Age_Sex_NewExArt_HIV_TARGET">
+			<description>Target Number of ART patients who are expected to complete a course of TB preventive therapy during the reporting period (for programs using continuous IPT, this includes only the patients who are scheduled to complete the first 6 months of therapy)</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="xyPI9PwXxY9"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="L3qltmjNtSr" name="TB_PREV (D, DSD, Age/Sex/NewExistingArt/HIVStatus) TARGET: IPT" shortName="TB_PREV (D, DSD, Age/Sex/NewExArt/HIV) TARGET" code="TB_PREV_D_DSD_Age_Sex_NewExArt_HIV_TARGET">
+			<description>Target Number of ART patients who are expected to complete a course of TB preventive therapy during the reporting period (for programs using continuous IPT, this includes only the patients who are scheduled to complete the first 6 months of therapy)</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="xyPI9PwXxY9"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="HUgQMmRVHMS" name="TB_PREV (D, TA, Age/Sex/NewExistingArt/HIVStatus) TARGET: IPT" shortName="TB_PREV (D, TA, Age/Sex/NewExArt/HIV) TARGET" code="TB_PREV_D_TA_Age_Sex_NewExArt_HIV_TARGET">
+			<description>Target Number of ART patients who are expected to complete a course of TB preventive therapy during the reporting period (for programs using continuous IPT, this includes only the patients who are scheduled to complete the first 6 months of therapy)</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="xyPI9PwXxY9"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="eeYmLTvWk8k" name="TB_STAT (D, DSD, Age/Sex) TARGET: New/Relapsed TB" shortName="TB_STAT (D, DSD, Age/Sex) TARGET" code="TB_STAT_D_DSD_Age_Sex_TARGET">
+			<description>Target Total number of new and relapsed TB cases, during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="KD7et9pZCmw"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="OLbVI34nrpu" name="TB_STAT (D, TA, Age/Sex) TARGET: New/Relapsed TB" shortName="TB_STAT (D, TA, Age/Sex) TARGET" code="TB_STAT_D_TA_Age_Sex_TARGET">
+			<description>Target Total number of new and relapsed TB cases, during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="KD7et9pZCmw"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="tqP00nubcdo" name="TB_STAT (N, DSD, Age/Sex/KnownNewPosNeg) TARGET: New/Relapsed TB" shortName="TB_STAT (N, DSD, Age/Sex/KnownNewPosNeg) TARGET" code="TB_STAT_N_DSD_Age_Sex_KnownNewPosNeg_TARGET">
+			<description>Target Total number of new and relapsed TB cases, during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="Ynr2qtl6WB9"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="VkrrexUefpS" name="TB_STAT (N, TA, Age/Sex/KnownNewPosNeg) TARGET: New/Relapsed TB" shortName="TB_STAT (N, TA, Age/Sex/KnownNewPosNeg) TARGET" code="TB_STAT_N_TA_Age_Sex_KnownNewPosNeg_TARGET">
+			<description>Target Total number of new and relapsed TB cases, during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="Ynr2qtl6WB9"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="di4b6joXm84" name="TX_CURR (N, DSD, Age/Sex/HIVStatus) TARGET: Receiving ART" shortName="TX_CURR (N, DSD, Age/Sex/HIVStatus) TARGET" code="TX_CURR_N_DSD_Age_Sex_HIVStatus_TARGET">
+			<description>Target Number of adults and children currently receiving antiretroviral therapy (ART)</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="HGZY9RNZjRd" name="TX_CURR (N, TA, Age/Sex/HIVStatus) TARGET: Receiving ART" shortName="TX_CURR (N, TA, Age/Sex/HIVStatus) TARGET" code="TX_CURR_N_TA_Age_Sex_HIVStatus_TARGET">
+			<description>Target Number of adults and children currently receiving antiretroviral therapy (ART)</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="OLbhrUez4dP" name="TX_CURR (N, DSD, KeyPop/HIVStatus) TARGET: Receiving ART" shortName="TX_CURR (N, DSD, KeyPop/HIVStatus) TARGET" code="TX_CURR_N_DSD_KeyPop_HIVStatus_TARGET">
+			<description>Target Number of adults and children currently receiving antiretroviral therapy (ART)</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="JQvyWrTQJlo"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="uIqAr4ev05I" name="TX_CURR (N, TA, KeyPop/HIVStatus) TARGET: Receiving ART" shortName="TX_CURR (N, TA, KeyPop/HIVStatus) TARGET" code="TX_CURR_N_TA_KeyPop_HIVStatus_TARGET">
+			<description>Target Number of adults and children currently receiving antiretroviral therapy (ART)</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="JQvyWrTQJlo"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="vmfKLKi1NBA" name="TX_NEW (N, DSD, Age/Sex/HIVStatus) TARGET: New on ART" shortName="TX_NEW (N, DSD, Age/Sex/HIVStatus) TARGET" code="TX_NEW_N_DSD_Age_Sex_HIVStatus_TARGET">
+			<description>Target Number of adults and children newly enrolled on antiretroviral therapy (ART)</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="DhrLCUBm3bK" name="TX_NEW (N, TA, Age/Sex/HIVStatus) TARGET: New on ART" shortName="TX_NEW (N, TA, Age/Sex/HIVStatus) TARGET" code="TX_NEW_N_TA_Age_Sex_HIVStatus_TARGET">
+			<description>Target Number of adults and children newly enrolled on antiretroviral therapy (ART)</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="HZtrVMo9031"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="ktZYUSS0Zjo" name="TX_NEW (N, DSD, KeyPop/HIVStatus) TARGET: New on ART" shortName="TX_NEW (N, DSD, KeyPop/HIVStatus) TARGET" code="TX_NEW_N_DSD_KeyPop_HIVStatus_TARGET">
+			<description>Target Number of adults and children newly enrolled on antiretroviral therapy (ART)</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="JQvyWrTQJlo"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="SyQHN3Jpcww" name="TX_NEW (N, TA, KeyPop/HIVStatus) TARGET: New on ART" shortName="TX_NEW (N, TA, KeyPop/HIVStatus) TARGET" code="TX_NEW_N_TA_KeyPop_HIVStatus_TARGET">
+			<description>Target Number of adults and children newly enrolled on antiretroviral therapy (ART)</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="JQvyWrTQJlo"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="WpZwPieQ060" name="TX_PVLS (D, DSD, Age/Sex/Indication/HIVStatus) TARGET v2: Viral Load Documented" shortName="TX_PVLS (D, DSD, Age/Sex/Ind/HIV) TARGET v2" code="TX_PVLS_D_DSD_Age_Sex_Ind_HIV_TARGET_v2">
+			<description>Target Number of adult and pediatric ART patients with a viral load result documented in the patient medical record and /or laboratory records  in the past 12 months</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="bL9OWNHMVKy"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="KlAFsRMw17y" name="TX_PVLS (D, TA, Age/Sex/Indication/HIVStatus) TARGET v2: Viral Load Documented" shortName="TX_PVLS (D, TA, Age/Sex/Ind/HIV) TARGET v2" code="TX_PVLS_D_TA_Age_Sex_Ind_HIV_TARGET_v2">
+			<description>Target Number of adult and pediatric ART patients with a viral load result documented in the patient medical record and /or laboratory records  in the past 12 months</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="bL9OWNHMVKy"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="N55pM5ZuWcI" name="TX_PVLS (N, DSD, Age/Sex/Indication/HIVStatus) TARGET: Viral Load Documented" shortName="TX_PVLS (N, DSD, Age/Sex/Ind/HIV) TARGET" code="TX_PVLS_N_DSD_Age_Sex_Ind_HIV_TARGET">
+			<description>Target Number of adult and pediatric ART patients with a viral load result documented in the patient medical record and /or laboratory records  in the past 12 months</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="bL9OWNHMVKy"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="LCrR2BK3wmA" name="TX_PVLS (N, TA, Age/Sex/Indication/HIVStatus) TARGET: Viral Load Documented" shortName="TX_PVLS (N, TA, Age/Sex/Ind/HIV) TARGET" code="TX_PVLS_N_TA_Age_Sex_Ind_HIV_TARGET">
+			<description>Target Number of adult and pediatric ART patients with a viral load result documented in the patient medical record and /or laboratory records  in the past 12 months</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="bL9OWNHMVKy"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="tGtB1nLnQjC" name="TX_PVLS (N, DSD, KeyPop/HIVStatus) TARGET: Viral Load Documented" shortName="TX_PVLS (N, DSD, KeyPop/HIVStatus) TARGET" code="TX_PVLS_N_DSD_KeyPop_HIVStatus_TARGET">
+			<description>Target Number of adult and pediatric ART patients with a viral load result documented in the patient medical record and /or laboratory records  in the past 12 months</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="JQvyWrTQJlo"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="Qshwh8ZOmYD" name="TX_PVLS (N, TA, KeyPop/HIVStatus) TARGET: Viral Load Documented" shortName="TX_PVLS (N, TA, KeyPop/HIVStatus) TARGET" code="TX_PVLS_N_TA_KeyPop_HIVStatus_TARGET">
+			<description>Target Number of adult and pediatric ART patients with a viral load result documented in the patient medical record and /or laboratory records  in the past 12 months</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="JQvyWrTQJlo"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="P9OjdVVMHMW" name="TX_PVLS (D, DSD, KeyPop/HIVStatus) TARGET: Viral Load Documented" shortName="TX_PVLS (D, DSD, KeyPop/HIVStatus) TARGET" code="TX_PVLS_D_DSD_KeyPop_HIVStatus_TARGET">
+			<description>Target Number of adult and pediatric ART patients with a viral load result documented in the patient medical record and /or laboratory records  in the past 12 months</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="JQvyWrTQJlo"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="ZYB5AHSw7Tm" name="TX_PVLS (D, TA, KeyPop/HIVStatus) TARGET: Viral Load Documented" shortName="TX_PVLS (D, TA, KeyPop/HIVStatus) TARGET" code="TX_PVLS_D_TA_KeyPop_HIVStatus_TARGET">
+			<description>Target Number of adult and pediatric ART patients with a viral load result documented in the patient medical record and /or laboratory records  in the past 12 months</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="JQvyWrTQJlo"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="BeEA8PsZ8Ky" name="TX_TB (D, DSD, Age/Sex/TBScreen/NewExistingART/HIVStatus) TARGET: TB Screening" shortName="TX_TB (D, DSD, Age/Sex/TBScreen/ART/HIV) TARGET" code="TX_TB_D_DSD_Age_Sex_TBScreen_ART_HIV_TARGET">
+			<description>Target Number of ART patients who were screened for TB at least once during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="isNiYirMRYt"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="DcQet8tM3my" name="TX_TB (D, TA, Age/Sex/TBScreen/NewExistingART/HIVStatus) TARGET: TB Screening" shortName="TX_TB (D, TA, Age/Sex/TBScreen/ART/HIV) TARGET" code="TX_TB_D_TA_Age_Sex_TBScreen_ART_HIV_TARGET">
+			<description>Target Number of ART patients who were screened for TB at least once during the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="isNiYirMRYt"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="xlSW2W3YGtk" name="VMMC_CIRC (N, TA, Age/Sex/HIVStatus) TARGET: Voluntary Circumcised" shortName="VMMC_CIRC (N, TA, Age/Sex/HIVStatus) TARGET" code="VMMC_CIRC_N_TA_Age_Sex_HIVStatus_TARGET">
+			<description>Target Number of males circumcised as part of the voluntary medical male circumcision (VMMC) for HIV prevention program within the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="F00w1bHIVma"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+		<dataElement id="jCfFnI5DZST" name="VMMC_CIRC (N, DSD, Age/Sex/HIVStatus) TARGET: Voluntary Circumcised" shortName="VMMC_CIRC (N, DSD, Age/Sex/HIVStatus) TARGET" code="VMMC_CIRC_N_DSD_Age_Sex_HIVStatus_TARGET">
+			<description>Target Number of males circumcised as part of the voluntary medical male circumcision (VMMC) for HIV prevention program within the reporting period</description>
+			<valueType>INTEGER</valueType>
+			<domainType>AGGREGATE</domainType>
+			<aggregationType>SUM</aggregationType>
+			<zeroIsSignificant>true</zeroIsSignificant>
+			<categoryCombo id="F00w1bHIVma"/>
+			<publicAccess>--------</publicAccess>
+			<userGroupAccesses>
+				<userGroupAccess>
+					<access>r-------</access>
+					<id>c6hGi8GEZot</id>
+				</userGroupAccess>
+			</userGroupAccesses>
+		</dataElement>
+	</dataElements>
+	<dataElementGroupSets>
+		<dataElementGroupSet id="LxhLO68FcXm" name="Technical Area" shortName="Technical Area">
+			<description>Technical Area</description>
+			<publicAccess>r-------</publicAccess>
+			<compulsory>false</compulsory>
+			<dataDimension>true</dataDimension>
+			<dataElementGroups>
+				<dataElementGroup id="qOgXk080fJH"/>
+				<dataElementGroup id="vw3VoiA4D0s"/>
+				<dataElementGroup id="CUblPgOMGaT"/>
+				<dataElementGroup id="twyHxdQVjMC"/>
+				<dataElementGroup id="hGUykTtC0Xm"/>
+				<dataElementGroup id="f5IPTM7mieH"/>
+				<dataElementGroup id="NYAJ6QkEKbC"/>
+				<dataElementGroup id="Uo2vBxak9im"/>
+				<dataElementGroup id="lYTgCwEjUX6"/>
+				<dataElementGroup id="RxyNwEV3oQf"/>
+				<dataElementGroup id="AaCcy7dVfWw"/>
+				<dataElementGroup id="cwZbCmUvjp7"/>
+				<dataElementGroup id="BTIqHnjeG7l"/>
+				<dataElementGroup id="Fvs28dwjL6e"/>
+				<dataElementGroup id="fRWHMVd6Vq5"/>
+				<dataElementGroup id="gma5vVZgK49"/>
+				<dataElementGroup id="Z6TU9Os82Yw"/>
+				<dataElementGroup id="FfxbuFZVAM5"/>
+				<dataElementGroup id="rI3JlpiuwEK"/>
+				<dataElementGroup id="MvszPTQrUhy"/>
+				<dataElementGroup id="udCop657yzi"/>
+				<dataElementGroup id="bZOF8bon1dD"/>
+				<dataElementGroup id="tOiM2uxcnkj"/>
+				<dataElementGroup id="wdoUps1qb3V"/>
+			</dataElementGroups>
+		</dataElementGroupSet>
+		<dataElementGroupSet id="lD2x0c8kywj" name="Numerator / Denominator" shortName="Numerator / Denominator">
+			<description>Numerator / Denominator</description>
+			<publicAccess>r-------</publicAccess>
+			<compulsory>false</compulsory>
+			<dataDimension>true</dataDimension>
+			<dataElementGroups>
+				<dataElementGroup id="Som9NRMQqV7"/>
+				<dataElementGroup id="QpNj0nSuEhD"/>
+			</dataElementGroups>
+		</dataElementGroupSet>
+		<dataElementGroupSet id="TWXpUVE2MqL" name="Support Type" shortName="Support Type">
+			<description>Support Type</description>
+			<publicAccess>r-------</publicAccess>
+			<compulsory>false</compulsory>
+			<dataDimension>true</dataDimension>
+			<dataElementGroups>
+				<dataElementGroup id="iM13vdNLWKb"/>
+				<dataElementGroup id="cRAGKdWIDn4"/>
+			</dataElementGroups>
+		</dataElementGroupSet>
+		<dataElementGroupSet id="bEktFhmEKn6" name="HTS Modality (USE ONLY for FY22 Results/FY23 Targets)" shortName="HTS Modality (USE ONLY for FY22 Results/FY23 Targe">
+			<description>HTS Modality (USE ONLY for FY22 Results/FY23 Targets)</description>
+			<publicAccess>r-------</publicAccess>
+			<compulsory>false</compulsory>
+			<dataDimension>true</dataDimension>
+			<dataElementGroups>
+				<dataElementGroup id="yT62UJoD9rv"/>
+				<dataElementGroup id="F1FyFLrhv9g"/>
+				<dataElementGroup id="WG2hGwrtua0"/>
+				<dataElementGroup id="hTqZj5s4LXl"/>
+				<dataElementGroup id="pTO4akYIldq"/>
+				<dataElementGroup id="W97RSqbfrtJ"/>
+				<dataElementGroup id="tl37ftZ6h9Q"/>
+				<dataElementGroup id="s00uNMA9T2t"/>
+				<dataElementGroup id="Ex71dYdusOp"/>
+				<dataElementGroup id="BfWmLUQcVLd"/>
+				<dataElementGroup id="rh72QPBKMrz"/>
+				<dataElementGroup id="kHObUg98y4D"/>
+				<dataElementGroup id="w0eIQVuHOvq"/>
+				<dataElementGroup id="K3nYgQ6V9f2"/>
+				<dataElementGroup id="McZJUkt4xO5"/>
+				<dataElementGroup id="pvrOscbOv8m"/>
+				<dataElementGroup id="eqTpnu6IWxO"/>
+			</dataElementGroups>
+		</dataElementGroupSet>
+	</dataElementGroupSets>
+	<dataElementGroups>
+		<dataElementGroup id="qOgXk080fJH" name="CXCA_SCRN" shortName="CXCA_SCRN">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="hfR9r70Fk99"/>
+				<dataElements id="wQ5XOuU0LVH"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="vw3VoiA4D0s" name="GEND_GBV" shortName="GEND_GBV">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="N4sS65QUOP3"/>
+				<dataElements id="XUtNKyPozHq"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="CUblPgOMGaT" name="HTS_INDEX" shortName="HTS_INDEX">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="uh9PhdnIkHp"/>
+				<dataElements id="A2eyuXZUCEk"/>
+				<dataElements id="zjWvbsJM43i"/>
+				<dataElements id="Wa2oJtmc0CE"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="twyHxdQVjMC" name="HTS_RECENT" shortName="HTS_RECENT">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="IRrwpjKx7ye"/>
+				<dataElements id="dCS5eK7N31F"/>
+				<dataElements id="olULPdHspqP"/>
+				<dataElements id="i4ilzanYtHD"/>
+				<dataElements id="y42bZItNsea"/>
+				<dataElements id="uZ2UTVh2wkJ"/>
+				<dataElements id="J1BAupscTaW"/>
+				<dataElements id="odyWaFzVFFt"/>
+				<dataElements id="isc6NmtIRN6"/>
+				<dataElements id="ZNMNKgHs4KO"/>
+				<dataElements id="LqBvfeIM16u"/>
+				<dataElements id="JHvmBrMCjy7"/>
+				<dataElements id="J1fW7eRVAvg"/>
+				<dataElements id="ICfpR6tTRav"/>
+				<dataElements id="plNFWb5y1xZ"/>
+				<dataElements id="OJRxJ6RKD1Y"/>
+				<dataElements id="eb2ZBmNFOHl"/>
+				<dataElements id="z6GXOWXNpjr"/>
+				<dataElements id="UXsJUOYhGKw"/>
+				<dataElements id="kvpanmX8jqF"/>
+				<dataElements id="eobYc4wjsBv"/>
+				<dataElements id="c7RGWvHw00d"/>
+				<dataElements id="XDT2DJvZo7s"/>
+				<dataElements id="PiXbpFs1eHW"/>
+				<dataElements id="VTV9sGJ4UG9"/>
+				<dataElements id="vcs4BFXyhMY"/>
+				<dataElements id="LIAjiT4jTs6"/>
+				<dataElements id="oaZYhkz7cFQ"/>
+				<dataElements id="VczqDKZHGPM"/>
+				<dataElements id="t7g2D0Wcbh2"/>
+				<dataElements id="CsS3NWTqfpu"/>
+				<dataElements id="Y7ZamXjNycI"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="hGUykTtC0Xm" name="HTS_SELF" shortName="HTS_SELF">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="qL1qysWLZoq"/>
+				<dataElements id="Hx5jjGAdVsT"/>
+				<dataElements id="r9N46a1q942"/>
+				<dataElements id="NcMMbbymtij"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="f5IPTM7mieH" name="HTS_TST" shortName="HTS_TST">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="L7WtGlktM3V"/>
+				<dataElements id="ut2wnnl1wHd"/>
+				<dataElements id="w9SZ1C4cYZH"/>
+				<dataElements id="zvvb5B8E4XP"/>
+				<dataElements id="Ea3rt2Nb0QG"/>
+				<dataElements id="W680huEe6Hw"/>
+				<dataElements id="ydi7w5XUSNn"/>
+				<dataElements id="aMnJ58kqylT"/>
+				<dataElements id="ef1o9r1kDIH"/>
+				<dataElements id="MA4lEpgzAxS"/>
+				<dataElements id="YQmTFDhOXza"/>
+				<dataElements id="n32vXYJ6Wkn"/>
+				<dataElements id="SpiiKPXh98N"/>
+				<dataElements id="oZ4YhB1Fkgk"/>
+				<dataElements id="TCNNxKm4KZb"/>
+				<dataElements id="VIhAZvOIQRL"/>
+				<dataElements id="gwHmP4hr3DP"/>
+				<dataElements id="nmaqnOpWT1h"/>
+				<dataElements id="N0j5TDUdTHQ"/>
+				<dataElements id="Jsv1CQ3JbCy"/>
+				<dataElements id="JDdf06ZTwyz"/>
+				<dataElements id="Jky7p2XOCNk"/>
+				<dataElements id="pfijmxjaMhp"/>
+				<dataElements id="CXM6vjMKs8r"/>
+				<dataElements id="dd2WtJJxFYj"/>
+				<dataElements id="CrhtWrSnb2D"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="NYAJ6QkEKbC" name="KP_MAT" shortName="KP_MAT">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="gG0fbMLqEB5"/>
+				<dataElements id="KJZrqS4XcJ2"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="Uo2vBxak9im" name="KP_PREV" shortName="KP_PREV">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="wDWUutgeEX8"/>
+				<dataElements id="VRgwEePUvdD"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="lYTgCwEjUX6" name="OVC_HIVSTAT" shortName="OVC_HIVSTAT">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="TqpIEl7LfV7"/>
+				<dataElements id="Tp792ZiaQed"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="RxyNwEV3oQf" name="OVC_SERV" shortName="OVC_SERV">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="cx8hxarh4Ke"/>
+				<dataElements id="TIuD9nSQAd9"/>
+				<dataElements id="j3NQAv8Fe3v"/>
+				<dataElements id="DsIC5hZsqDF"/>
+				<dataElements id="NbvZdpPzNf6"/>
+				<dataElements id="ZTN9wn0OQt1"/>
+				<dataElements id="HVzzfyVVIs1"/>
+				<dataElements id="Qk8HjZeOBom"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="AaCcy7dVfWw" name="PMTCT_ART" shortName="PMTCT_ART">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="qesr9meNVYc"/>
+				<dataElements id="vsudHZwmvb2"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="cwZbCmUvjp7" name="PMTCT_EID" shortName="PMTCT_EID">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="euzbW4INAqn"/>
+				<dataElements id="aFPTXEOa7nu"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="BTIqHnjeG7l" name="PMTCT_STAT" shortName="PMTCT_STAT">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="f10j57Ifd7k"/>
+				<dataElements id="bu3sosk4HWn"/>
+				<dataElements id="Qdn0vmNSflO"/>
+				<dataElements id="mfYq3HGUIX3"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="Fvs28dwjL6e" name="PP_PREV" shortName="PP_PREV">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="LpkXILJwnmO"/>
+				<dataElements id="HV0zRuYnuv8"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="fRWHMVd6Vq5" name="PrEP_CT" shortName="PrEP_CT">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="agoURWZyPpn"/>
+				<dataElements id="G7SQxPyGfFo"/>
+				<dataElements id="bwlf1Jfww0L"/>
+				<dataElements id="GlyNHRiJTOu"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="gma5vVZgK49" name="PrEP_NEW" shortName="PrEP_NEW">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="rXV784LlUQ4"/>
+				<dataElements id="DjW93zhi4zZ"/>
+				<dataElements id="lXqlw8UxoqF"/>
+				<dataElements id="gdHE7Kk9Q1k"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="Z6TU9Os82Yw" name="TB_ART" shortName="TB_ART">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="hJeWl5XjzgM"/>
+				<dataElements id="VVixfmL4Try"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="FfxbuFZVAM5" name="TB_PREV" shortName="TB_PREV">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="DA7uTAScxxi"/>
+				<dataElements id="MdqPezsikDr"/>
+				<dataElements id="L3qltmjNtSr"/>
+				<dataElements id="HUgQMmRVHMS"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="rI3JlpiuwEK" name="TB_STAT" shortName="TB_STAT">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="eeYmLTvWk8k"/>
+				<dataElements id="OLbVI34nrpu"/>
+				<dataElements id="tqP00nubcdo"/>
+				<dataElements id="VkrrexUefpS"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="MvszPTQrUhy" name="TX_CURR" shortName="TX_CURR">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="di4b6joXm84"/>
+				<dataElements id="HGZY9RNZjRd"/>
+				<dataElements id="OLbhrUez4dP"/>
+				<dataElements id="uIqAr4ev05I"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="udCop657yzi" name="TX_NEW" shortName="TX_NEW">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="vmfKLKi1NBA"/>
+				<dataElements id="DhrLCUBm3bK"/>
+				<dataElements id="ktZYUSS0Zjo"/>
+				<dataElements id="SyQHN3Jpcww"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="bZOF8bon1dD" name="TX_PVLS" shortName="TX_PVLS">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="WpZwPieQ060"/>
+				<dataElements id="KlAFsRMw17y"/>
+				<dataElements id="N55pM5ZuWcI"/>
+				<dataElements id="LCrR2BK3wmA"/>
+				<dataElements id="tGtB1nLnQjC"/>
+				<dataElements id="Qshwh8ZOmYD"/>
+				<dataElements id="P9OjdVVMHMW"/>
+				<dataElements id="ZYB5AHSw7Tm"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="tOiM2uxcnkj" name="TX_TB" shortName="TX_TB">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="BeEA8PsZ8Ky"/>
+				<dataElements id="DcQet8tM3my"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="wdoUps1qb3V" name="VMMC_CIRC" shortName="VMMC_CIRC">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="xlSW2W3YGtk"/>
+				<dataElements id="jCfFnI5DZST"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="Som9NRMQqV7" name="Numerator" shortName="Numerator">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="hfR9r70Fk99"/>
+				<dataElements id="wQ5XOuU0LVH"/>
+				<dataElements id="N4sS65QUOP3"/>
+				<dataElements id="XUtNKyPozHq"/>
+				<dataElements id="uh9PhdnIkHp"/>
+				<dataElements id="A2eyuXZUCEk"/>
+				<dataElements id="zjWvbsJM43i"/>
+				<dataElements id="Wa2oJtmc0CE"/>
+				<dataElements id="IRrwpjKx7ye"/>
+				<dataElements id="dCS5eK7N31F"/>
+				<dataElements id="olULPdHspqP"/>
+				<dataElements id="i4ilzanYtHD"/>
+				<dataElements id="y42bZItNsea"/>
+				<dataElements id="uZ2UTVh2wkJ"/>
+				<dataElements id="J1BAupscTaW"/>
+				<dataElements id="odyWaFzVFFt"/>
+				<dataElements id="isc6NmtIRN6"/>
+				<dataElements id="ZNMNKgHs4KO"/>
+				<dataElements id="LqBvfeIM16u"/>
+				<dataElements id="JHvmBrMCjy7"/>
+				<dataElements id="J1fW7eRVAvg"/>
+				<dataElements id="ICfpR6tTRav"/>
+				<dataElements id="plNFWb5y1xZ"/>
+				<dataElements id="OJRxJ6RKD1Y"/>
+				<dataElements id="eb2ZBmNFOHl"/>
+				<dataElements id="z6GXOWXNpjr"/>
+				<dataElements id="UXsJUOYhGKw"/>
+				<dataElements id="kvpanmX8jqF"/>
+				<dataElements id="eobYc4wjsBv"/>
+				<dataElements id="c7RGWvHw00d"/>
+				<dataElements id="XDT2DJvZo7s"/>
+				<dataElements id="PiXbpFs1eHW"/>
+				<dataElements id="VTV9sGJ4UG9"/>
+				<dataElements id="vcs4BFXyhMY"/>
+				<dataElements id="LIAjiT4jTs6"/>
+				<dataElements id="oaZYhkz7cFQ"/>
+				<dataElements id="VczqDKZHGPM"/>
+				<dataElements id="t7g2D0Wcbh2"/>
+				<dataElements id="CsS3NWTqfpu"/>
+				<dataElements id="Y7ZamXjNycI"/>
+				<dataElements id="qL1qysWLZoq"/>
+				<dataElements id="Hx5jjGAdVsT"/>
+				<dataElements id="r9N46a1q942"/>
+				<dataElements id="NcMMbbymtij"/>
+				<dataElements id="L7WtGlktM3V"/>
+				<dataElements id="ut2wnnl1wHd"/>
+				<dataElements id="w9SZ1C4cYZH"/>
+				<dataElements id="zvvb5B8E4XP"/>
+				<dataElements id="Ea3rt2Nb0QG"/>
+				<dataElements id="W680huEe6Hw"/>
+				<dataElements id="ydi7w5XUSNn"/>
+				<dataElements id="aMnJ58kqylT"/>
+				<dataElements id="ef1o9r1kDIH"/>
+				<dataElements id="MA4lEpgzAxS"/>
+				<dataElements id="YQmTFDhOXza"/>
+				<dataElements id="n32vXYJ6Wkn"/>
+				<dataElements id="SpiiKPXh98N"/>
+				<dataElements id="oZ4YhB1Fkgk"/>
+				<dataElements id="TCNNxKm4KZb"/>
+				<dataElements id="VIhAZvOIQRL"/>
+				<dataElements id="gwHmP4hr3DP"/>
+				<dataElements id="nmaqnOpWT1h"/>
+				<dataElements id="N0j5TDUdTHQ"/>
+				<dataElements id="Jsv1CQ3JbCy"/>
+				<dataElements id="JDdf06ZTwyz"/>
+				<dataElements id="Jky7p2XOCNk"/>
+				<dataElements id="pfijmxjaMhp"/>
+				<dataElements id="CXM6vjMKs8r"/>
+				<dataElements id="dd2WtJJxFYj"/>
+				<dataElements id="CrhtWrSnb2D"/>
+				<dataElements id="gG0fbMLqEB5"/>
+				<dataElements id="KJZrqS4XcJ2"/>
+				<dataElements id="wDWUutgeEX8"/>
+				<dataElements id="VRgwEePUvdD"/>
+				<dataElements id="TqpIEl7LfV7"/>
+				<dataElements id="Tp792ZiaQed"/>
+				<dataElements id="cx8hxarh4Ke"/>
+				<dataElements id="TIuD9nSQAd9"/>
+				<dataElements id="j3NQAv8Fe3v"/>
+				<dataElements id="DsIC5hZsqDF"/>
+				<dataElements id="NbvZdpPzNf6"/>
+				<dataElements id="ZTN9wn0OQt1"/>
+				<dataElements id="HVzzfyVVIs1"/>
+				<dataElements id="Qk8HjZeOBom"/>
+				<dataElements id="qesr9meNVYc"/>
+				<dataElements id="vsudHZwmvb2"/>
+				<dataElements id="euzbW4INAqn"/>
+				<dataElements id="aFPTXEOa7nu"/>
+				<dataElements id="Qdn0vmNSflO"/>
+				<dataElements id="mfYq3HGUIX3"/>
+				<dataElements id="LpkXILJwnmO"/>
+				<dataElements id="HV0zRuYnuv8"/>
+				<dataElements id="agoURWZyPpn"/>
+				<dataElements id="G7SQxPyGfFo"/>
+				<dataElements id="bwlf1Jfww0L"/>
+				<dataElements id="GlyNHRiJTOu"/>
+				<dataElements id="rXV784LlUQ4"/>
+				<dataElements id="DjW93zhi4zZ"/>
+				<dataElements id="lXqlw8UxoqF"/>
+				<dataElements id="gdHE7Kk9Q1k"/>
+				<dataElements id="hJeWl5XjzgM"/>
+				<dataElements id="VVixfmL4Try"/>
+				<dataElements id="DA7uTAScxxi"/>
+				<dataElements id="MdqPezsikDr"/>
+				<dataElements id="tqP00nubcdo"/>
+				<dataElements id="VkrrexUefpS"/>
+				<dataElements id="di4b6joXm84"/>
+				<dataElements id="HGZY9RNZjRd"/>
+				<dataElements id="OLbhrUez4dP"/>
+				<dataElements id="uIqAr4ev05I"/>
+				<dataElements id="vmfKLKi1NBA"/>
+				<dataElements id="DhrLCUBm3bK"/>
+				<dataElements id="ktZYUSS0Zjo"/>
+				<dataElements id="SyQHN3Jpcww"/>
+				<dataElements id="N55pM5ZuWcI"/>
+				<dataElements id="LCrR2BK3wmA"/>
+				<dataElements id="tGtB1nLnQjC"/>
+				<dataElements id="Qshwh8ZOmYD"/>
+				<dataElements id="xlSW2W3YGtk"/>
+				<dataElements id="jCfFnI5DZST"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="QpNj0nSuEhD" name="Denominator" shortName="Denominator">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="f10j57Ifd7k"/>
+				<dataElements id="bu3sosk4HWn"/>
+				<dataElements id="L3qltmjNtSr"/>
+				<dataElements id="HUgQMmRVHMS"/>
+				<dataElements id="eeYmLTvWk8k"/>
+				<dataElements id="OLbVI34nrpu"/>
+				<dataElements id="WpZwPieQ060"/>
+				<dataElements id="KlAFsRMw17y"/>
+				<dataElements id="P9OjdVVMHMW"/>
+				<dataElements id="ZYB5AHSw7Tm"/>
+				<dataElements id="BeEA8PsZ8Ky"/>
+				<dataElements id="DcQet8tM3my"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="iM13vdNLWKb" name="DSD" shortName="DSD">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="hfR9r70Fk99"/>
+				<dataElements id="N4sS65QUOP3"/>
+				<dataElements id="uh9PhdnIkHp"/>
+				<dataElements id="zjWvbsJM43i"/>
+				<dataElements id="IRrwpjKx7ye"/>
+				<dataElements id="olULPdHspqP"/>
+				<dataElements id="y42bZItNsea"/>
+				<dataElements id="J1BAupscTaW"/>
+				<dataElements id="isc6NmtIRN6"/>
+				<dataElements id="LqBvfeIM16u"/>
+				<dataElements id="J1fW7eRVAvg"/>
+				<dataElements id="plNFWb5y1xZ"/>
+				<dataElements id="eb2ZBmNFOHl"/>
+				<dataElements id="UXsJUOYhGKw"/>
+				<dataElements id="eobYc4wjsBv"/>
+				<dataElements id="XDT2DJvZo7s"/>
+				<dataElements id="VTV9sGJ4UG9"/>
+				<dataElements id="LIAjiT4jTs6"/>
+				<dataElements id="VczqDKZHGPM"/>
+				<dataElements id="CsS3NWTqfpu"/>
+				<dataElements id="qL1qysWLZoq"/>
+				<dataElements id="r9N46a1q942"/>
+				<dataElements id="L7WtGlktM3V"/>
+				<dataElements id="w9SZ1C4cYZH"/>
+				<dataElements id="Ea3rt2Nb0QG"/>
+				<dataElements id="ydi7w5XUSNn"/>
+				<dataElements id="ef1o9r1kDIH"/>
+				<dataElements id="YQmTFDhOXza"/>
+				<dataElements id="SpiiKPXh98N"/>
+				<dataElements id="TCNNxKm4KZb"/>
+				<dataElements id="gwHmP4hr3DP"/>
+				<dataElements id="N0j5TDUdTHQ"/>
+				<dataElements id="JDdf06ZTwyz"/>
+				<dataElements id="pfijmxjaMhp"/>
+				<dataElements id="dd2WtJJxFYj"/>
+				<dataElements id="gG0fbMLqEB5"/>
+				<dataElements id="wDWUutgeEX8"/>
+				<dataElements id="TqpIEl7LfV7"/>
+				<dataElements id="cx8hxarh4Ke"/>
+				<dataElements id="j3NQAv8Fe3v"/>
+				<dataElements id="NbvZdpPzNf6"/>
+				<dataElements id="HVzzfyVVIs1"/>
+				<dataElements id="qesr9meNVYc"/>
+				<dataElements id="euzbW4INAqn"/>
+				<dataElements id="f10j57Ifd7k"/>
+				<dataElements id="Qdn0vmNSflO"/>
+				<dataElements id="LpkXILJwnmO"/>
+				<dataElements id="agoURWZyPpn"/>
+				<dataElements id="bwlf1Jfww0L"/>
+				<dataElements id="rXV784LlUQ4"/>
+				<dataElements id="lXqlw8UxoqF"/>
+				<dataElements id="hJeWl5XjzgM"/>
+				<dataElements id="DA7uTAScxxi"/>
+				<dataElements id="L3qltmjNtSr"/>
+				<dataElements id="eeYmLTvWk8k"/>
+				<dataElements id="tqP00nubcdo"/>
+				<dataElements id="di4b6joXm84"/>
+				<dataElements id="OLbhrUez4dP"/>
+				<dataElements id="vmfKLKi1NBA"/>
+				<dataElements id="ktZYUSS0Zjo"/>
+				<dataElements id="WpZwPieQ060"/>
+				<dataElements id="N55pM5ZuWcI"/>
+				<dataElements id="tGtB1nLnQjC"/>
+				<dataElements id="P9OjdVVMHMW"/>
+				<dataElements id="BeEA8PsZ8Ky"/>
+				<dataElements id="jCfFnI5DZST"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="cRAGKdWIDn4" name="TA" shortName="TA">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="wQ5XOuU0LVH"/>
+				<dataElements id="XUtNKyPozHq"/>
+				<dataElements id="A2eyuXZUCEk"/>
+				<dataElements id="Wa2oJtmc0CE"/>
+				<dataElements id="dCS5eK7N31F"/>
+				<dataElements id="i4ilzanYtHD"/>
+				<dataElements id="uZ2UTVh2wkJ"/>
+				<dataElements id="odyWaFzVFFt"/>
+				<dataElements id="ZNMNKgHs4KO"/>
+				<dataElements id="JHvmBrMCjy7"/>
+				<dataElements id="ICfpR6tTRav"/>
+				<dataElements id="OJRxJ6RKD1Y"/>
+				<dataElements id="z6GXOWXNpjr"/>
+				<dataElements id="kvpanmX8jqF"/>
+				<dataElements id="c7RGWvHw00d"/>
+				<dataElements id="PiXbpFs1eHW"/>
+				<dataElements id="vcs4BFXyhMY"/>
+				<dataElements id="oaZYhkz7cFQ"/>
+				<dataElements id="t7g2D0Wcbh2"/>
+				<dataElements id="Y7ZamXjNycI"/>
+				<dataElements id="Hx5jjGAdVsT"/>
+				<dataElements id="NcMMbbymtij"/>
+				<dataElements id="ut2wnnl1wHd"/>
+				<dataElements id="zvvb5B8E4XP"/>
+				<dataElements id="W680huEe6Hw"/>
+				<dataElements id="aMnJ58kqylT"/>
+				<dataElements id="MA4lEpgzAxS"/>
+				<dataElements id="n32vXYJ6Wkn"/>
+				<dataElements id="oZ4YhB1Fkgk"/>
+				<dataElements id="VIhAZvOIQRL"/>
+				<dataElements id="nmaqnOpWT1h"/>
+				<dataElements id="Jsv1CQ3JbCy"/>
+				<dataElements id="Jky7p2XOCNk"/>
+				<dataElements id="CXM6vjMKs8r"/>
+				<dataElements id="CrhtWrSnb2D"/>
+				<dataElements id="KJZrqS4XcJ2"/>
+				<dataElements id="VRgwEePUvdD"/>
+				<dataElements id="Tp792ZiaQed"/>
+				<dataElements id="TIuD9nSQAd9"/>
+				<dataElements id="DsIC5hZsqDF"/>
+				<dataElements id="ZTN9wn0OQt1"/>
+				<dataElements id="Qk8HjZeOBom"/>
+				<dataElements id="vsudHZwmvb2"/>
+				<dataElements id="aFPTXEOa7nu"/>
+				<dataElements id="bu3sosk4HWn"/>
+				<dataElements id="mfYq3HGUIX3"/>
+				<dataElements id="HV0zRuYnuv8"/>
+				<dataElements id="G7SQxPyGfFo"/>
+				<dataElements id="GlyNHRiJTOu"/>
+				<dataElements id="DjW93zhi4zZ"/>
+				<dataElements id="gdHE7Kk9Q1k"/>
+				<dataElements id="VVixfmL4Try"/>
+				<dataElements id="MdqPezsikDr"/>
+				<dataElements id="HUgQMmRVHMS"/>
+				<dataElements id="OLbVI34nrpu"/>
+				<dataElements id="VkrrexUefpS"/>
+				<dataElements id="HGZY9RNZjRd"/>
+				<dataElements id="uIqAr4ev05I"/>
+				<dataElements id="DhrLCUBm3bK"/>
+				<dataElements id="SyQHN3Jpcww"/>
+				<dataElements id="KlAFsRMw17y"/>
+				<dataElements id="LCrR2BK3wmA"/>
+				<dataElements id="Qshwh8ZOmYD"/>
+				<dataElements id="ZYB5AHSw7Tm"/>
+				<dataElements id="DcQet8tM3my"/>
+				<dataElements id="xlSW2W3YGtk"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="yT62UJoD9rv" name="Facility - Index FY22R/FY23T" shortName="Facility - Index FY22R/FY23T">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="uh9PhdnIkHp"/>
+				<dataElements id="A2eyuXZUCEk"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="F1FyFLrhv9g" name="Community - Index FY22R/FY23T" shortName="Community - Index FY22R/FY23T">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="zjWvbsJM43i"/>
+				<dataElements id="Wa2oJtmc0CE"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="WG2hGwrtua0" name="Facility - SNS FY22R/FY23T" shortName="Facility - SNS FY22R/FY23T">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="L7WtGlktM3V"/>
+				<dataElements id="ut2wnnl1wHd"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="hTqZj5s4LXl" name="Community - SNS FY22R/FY23T" shortName="Community - SNS FY22R/FY23T">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="w9SZ1C4cYZH"/>
+				<dataElements id="zvvb5B8E4XP"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="pTO4akYIldq" name="Facility - Emergency Ward FY22R/FY23T" shortName="Facility - Emergency Ward FY22R/FY23T">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="Ea3rt2Nb0QG"/>
+				<dataElements id="W680huEe6Hw"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="W97RSqbfrtJ" name="Facility - Inpatient FY22R/FY23T" shortName="Facility - Inpatient FY22R/FY23T">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="ydi7w5XUSNn"/>
+				<dataElements id="aMnJ58kqylT"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="tl37ftZ6h9Q" name="Facility - Malnutrition FY22R/FY23T" shortName="Facility - Malnutrition FY22R/FY23T">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="YQmTFDhOXza"/>
+				<dataElements id="n32vXYJ6Wkn"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="s00uNMA9T2t" name="Community - Mobile FY22R/FY23T" shortName="Community - Mobile FY22R/FY23T">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="SpiiKPXh98N"/>
+				<dataElements id="oZ4YhB1Fkgk"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="Ex71dYdusOp" name="Community - Other Services FY22R/FY23T" shortName="Community - Other Services FY22R/FY23T">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="TCNNxKm4KZb"/>
+				<dataElements id="VIhAZvOIQRL"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="BfWmLUQcVLd" name="Facility - Other PITC FY22R/FY23T" shortName="Facility - Other PITC FY22R/FY23T">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="gwHmP4hr3DP"/>
+				<dataElements id="nmaqnOpWT1h"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="rh72QPBKMrz" name="Facility - Pediatric FY22R/FY23T" shortName="Facility - Pediatric FY22R/FY23T">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="N0j5TDUdTHQ"/>
+				<dataElements id="Jsv1CQ3JbCy"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="kHObUg98y4D" name="Facility - STI Clinic FY22R/FY23T" shortName="Facility - STI Clinic FY22R/FY23T">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="JDdf06ZTwyz"/>
+				<dataElements id="Jky7p2XOCNk"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="w0eIQVuHOvq" name="Facility - VCT FY22R/FY23T" shortName="Facility - VCT FY22R/FY23T">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="pfijmxjaMhp"/>
+				<dataElements id="CXM6vjMKs8r"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="K3nYgQ6V9f2" name="Facility - PMTCT Post ANC1 FY22R/FY23T" shortName="Facility - PMTCT Post ANC1 FY22R/FY23T">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="dd2WtJJxFYj"/>
+				<dataElements id="CrhtWrSnb2D"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="McZJUkt4xO5" name="Facility - PMTCT ANC1 Only FY22R/FY23T" shortName="Facility - PMTCT ANC1 Only FY22R/FY23T">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="Qdn0vmNSflO"/>
+				<dataElements id="mfYq3HGUIX3"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="pvrOscbOv8m" name="Facility - TB Clinic FY22R/FY23T" shortName="Facility - TB Clinic FY22R/FY23T">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="tqP00nubcdo"/>
+				<dataElements id="VkrrexUefpS"/>
+			</dataElements>
+		</dataElementGroup>
+		<dataElementGroup id="eqTpnu6IWxO" name="Facility - VMMC FY22R/FY23T" shortName="Facility - VMMC FY22R/FY23T">
+			<publicAccess>r-------</publicAccess>
+			<dataElements>
+				<dataElements id="xlSW2W3YGtk"/>
+				<dataElements id="jCfFnI5DZST"/>
+			</dataElements>
+		</dataElementGroup>
+	</dataElementGroups>
+</metadata>

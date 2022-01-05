@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<metadata>
+  <system>
+    <id>triage.testing.datim.org</id>
+    <rev>93dc523</rev>
+    <version>2.33.8-SNAPSHOT</version>
+    <date>2021-01-05T16:55:44.445</date>
+  </system>
+  <indicatorTypes>
+    <indicatorType name="Number" id="QEjvmP5XVSn">
+      <number>true</number>
+      <factor>1</factor>
+    </indicatorType>
+    <indicatorType name="Percentage" id="TcQNjn6Mx4h">
+      <number>false</number>
+      <factor>100</factor>
+    </indicatorType>
+    <indicatorType name="Ratio" id="uarlCLt2NF7">
+      <number>false</number>
+      <factor>1</factor>
+    </indicatorType>
+  </indicatorTypes>
+</metadata>
