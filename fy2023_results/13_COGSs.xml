@@ -1,0 +1,249 @@
+<?xml version='1.0' encoding='utf-8'?>
+<metadata>
+  <system>
+    <id>aaaecc95.us-east-1.pepfar.bao.systems</id>
+    <rev>e590bdc</rev>
+    <version>2.38.2.1-SNAPSHOT</version>
+    <date>2023-02-22T18:25:49.075</date>
+  </system>
+  <categoryOptionGroupSets>
+    <categoryOptionGroupSet id="xRo1uG2KJHk" name="Age: &lt;15/15+  (Coarse)" shortName="Age: &lt;15/15+  (Coarse)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <dataDimension>true</dataDimension>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categoryOptionGroups>
+        <categoryOptionGroup id="X2PpJrdZaxH"/>
+        <categoryOptionGroup id="HkQZzpC7cUo"/>
+        <categoryOptionGroup id="MnAgKVcL97H"/>
+      </categoryOptionGroups>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroupSet>
+    <categoryOptionGroupSet id="e485zBiR7vG" name="Age: Cascade Age bands" shortName="Age: Cascade Age bands">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <description>Age bands which are relevant for the clinical cascade.</description>
+      <dataDimension>true</dataDimension>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categoryOptionGroups>
+        <categoryOptionGroup id="MnAgKVcL97H"/>
+        <categoryOptionGroup id="Z8MTaDxRBP6"/>
+        <categoryOptionGroup id="BURHq262iEL"/>
+        <categoryOptionGroup id="RV1ZeOr98rI"/>
+        <categoryOptionGroup id="tIZRQs0FK5P"/>
+        <categoryOptionGroup id="QOawCj9oLNS"/>
+        <categoryOptionGroup id="BDPEHrovntA"/>
+        <categoryOptionGroup id="K9Cw4402aAh"/>
+        <categoryOptionGroup id="JqZFtdn1sG3"/>
+        <categoryOptionGroup id="ftAnvKhxRxl"/>
+        <categoryOptionGroup id="kyKHoWxTzHR"/>
+        <categoryOptionGroup id="MsbFixtB8mu"/>
+        <categoryOptionGroup id="bePcXLCq9Ov"/>
+        <categoryOptionGroup id="M8W7M5GlOPh"/>
+        <categoryOptionGroup id="V1TzJFJTdHd"/>
+        <categoryOptionGroup id="Zfg3cHN5TMz"/>
+        <categoryOptionGroup id="egW0hBcZeD2"/>
+        <categoryOptionGroup id="OM74T7QbSG6"/>
+        <categoryOptionGroup id="dHewx3ia8a6"/>
+        <categoryOptionGroup id="aIbkjGjUZvE"/>
+        <categoryOptionGroup id="noEF3Mx7aBu"/>
+        <categoryOptionGroup id="N0PwGN3UKWx"/>
+        <categoryOptionGroup id="pk98FEsOJcz"/>
+        <categoryOptionGroup id="BnuNBXdgkKi"/>
+        <categoryOptionGroup id="AnBUfa1TLnS"/>
+        <categoryOptionGroup id="wRYm1EaHwN6"/>
+        <categoryOptionGroup id="BLXmhECo3EY"/>
+        <categoryOptionGroup id="d0y4XbtPq8A"/>
+        <categoryOptionGroup id="tP68KXwhi7Y"/>
+        <categoryOptionGroup id="IidKGLIJidC"/>
+        <categoryOptionGroup id="wcbZKNF8vyb"/>
+        <categoryOptionGroup id="Ki4v7TDSEZU"/>
+      </categoryOptionGroups>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroupSet>
+    <categoryOptionGroupSet id="M5w5H1KU40l" name="ART Status" shortName="ART Status">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <description>New/Already on ART</description>
+      <dataDimension>true</dataDimension>
+      <createdBy>
+        <displayName>Jason Pickering</displayName>
+        <name>Jason Pickering</name>
+        <id>Uhsev5495GW</id>
+        <username>jpickering</username>
+      </createdBy>
+      <categoryOptionGroups>
+        <categoryOptionGroup id="blnuJdt8f1Y"/>
+        <categoryOptionGroup id="x9wEpHXMZ5Z"/>
+      </categoryOptionGroups>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroupSet>
+    <categoryOptionGroupSet id="jyUTj5YC3OK" name="Cascade sex" shortName="Cascade sex">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <description>Grouping of sex options to support analysis of the clinical cascade</description>
+      <dataDimension>true</dataDimension>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categoryOptionGroups>
+        <categoryOptionGroup id="hDBPKTjUPDm"/>
+        <categoryOptionGroup id="ZOYVg7Hosni"/>
+        <categoryOptionGroup id="Gxcf2DK8vNc"/>
+      </categoryOptionGroups>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroupSet>
+    <categoryOptionGroupSet id="ZU8JXw0eQlZ" name="FY20 Recency" shortName="FY20 Recency">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <dataDimension>true</dataDimension>
+      <createdBy>
+        <displayName>Couper Turkewitz</displayName>
+        <name>Couper Turkewitz</name>
+        <id>pFkDLjhIx10</id>
+        <username>cturkewitz_dev</username>
+      </createdBy>
+      <categoryOptionGroups>
+        <categoryOptionGroup id="Z8Otpb3Im7s"/>
+        <categoryOptionGroup id="bMOgVmg6RnW"/>
+      </categoryOptionGroups>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroupSet>
+    <categoryOptionGroupSet id="ipBFu42t2sJ" name="HIV Test Status (Inclusive)" shortName="HIV Test Status (Inclusive)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <description>HIV Test status (Inclusive)</description>
+      <dataDimension>true</dataDimension>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categoryOptionGroups>
+        <categoryOptionGroup id="l5mQOWpLybR"/>
+        <categoryOptionGroup id="ntdVDkWUOj9"/>
+        <categoryOptionGroup id="Qnfnp6VzPcP"/>
+      </categoryOptionGroups>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroupSet>
+    <categoryOptionGroupSet id="bDWsPYyXgWP" name="HIV Test Status (Specific)" shortName="HIV Test Status (Specific)">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <description>HIV Test status</description>
+      <dataDimension>true</dataDimension>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categoryOptionGroups>
+        <categoryOptionGroup id="awSDzziN3Dn"/>
+        <categoryOptionGroup id="EvyNJHbQ7ZE"/>
+        <categoryOptionGroup id="i4Fgst9vzF9"/>
+        <categoryOptionGroup id="mSBg9AZx1lV"/>
+        <categoryOptionGroup id="e9fbFnQEyyA"/>
+        <categoryOptionGroup id="viYXyEy7wKi"/>
+        <categoryOptionGroup id="GNXy3pvTTM2"/>
+        <categoryOptionGroup id="zN8ZKXwJidw"/>
+        <categoryOptionGroup id="iGJ784iSg0R"/>
+        <categoryOptionGroup id="XQd6s5Gma2A"/>
+      </categoryOptionGroups>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroupSet>
+    <categoryOptionGroupSet id="dpGbG3hUgdV" name="Pregnant Or Breastfeeding" shortName="Pregnant Or Breastfeeding">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <dataDimension>true</dataDimension>
+      <createdBy>
+        <displayName>Timothy Harding</displayName>
+        <name>Timothy Harding</name>
+        <id>AfY6s6e2D6C</id>
+        <username>tharding@baosystems.com</username>
+      </createdBy>
+      <categoryOptionGroups>
+        <categoryOptionGroup id="JaWOzzRaq3y"/>
+        <categoryOptionGroup id="MHWJsd7BQqw"/>
+      </categoryOptionGroups>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryOptionGroupSet>
+  </categoryOptionGroupSets>
+</metadata>

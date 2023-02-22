@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<metadata>
+  <system>
+    <id>aaaecc95.us-east-1.pepfar.bao.systems</id>
+    <rev>e590bdc</rev>
+    <version>2.38.2.1-SNAPSHOT</version>
+    <date>2023-02-22T18:47:26.632</date>
+  </system>
+  <organisationUnitGroups>
+    <organisationUnitGroup code="COMMUNITY" id="PvuaP6YALSA" name="Community" shortName="Community">
+      <symbol>11.png</symbol>
+      <createdBy>
+        <displayName>Lars Helge Øverland</displayName>
+        <name>Lars Helge Øverland</name>
+        <id>YDfPt80iOQp</id>
+        <username>lars</username>
+      </createdBy>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </organisationUnitGroup>
+    <organisationUnitGroup code="FACILITY" id="POHZmzofoVx" name="Facility" shortName="Facility">
+      <symbol>21.png</symbol>
+      <createdBy>
+        <displayName>Lars Helge Øverland</displayName>
+        <name>Lars Helge Øverland</name>
+        <id>YDfPt80iOQp</id>
+        <username>lars</username>
+      </createdBy>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </organisationUnitGroup>
+    <organisationUnitGroup code="MILITARY" id="nwQbMeALRjL" name="Military" shortName="Military">
+      <createdBy>
+        <displayName>Jason Pickering</displayName>
+        <name>Jason Pickering</name>
+        <id>Uhsev5495GW</id>
+        <username>jpickering</username>
+      </createdBy>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </organisationUnitGroup>
+    <organisationUnitGroup code="OTHER_OU_TYPE" id="AookYR4ECPH" name="Other organisation unit type" shortName="Other organisation unit type">
+      <createdBy>
+        <displayName>Jason Pickering</displayName>
+        <name>Jason Pickering</name>
+        <id>Uhsev5495GW</id>
+        <username>jpickering</username>
+      </createdBy>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </organisationUnitGroup>
+  </organisationUnitGroups>
+  <organisationUnitGroupSets>
+    <organisationUnitGroupSet id="mINJi7rR1a6" name="Type of organisational unit" shortName="Type of organisational unit">
+      <description>Type of organisational unit</description>
+      <compulsory>true</compulsory>
+      <includeSubhierarchyInAnalytics>false</includeSubhierarchyInAnalytics>
+      <dataDimension>true</dataDimension>
+      <createdBy>
+        <displayName>Lars Helge Øverland</displayName>
+        <name>Lars Helge Øverland</name>
+        <id>YDfPt80iOQp</id>
+        <username>lars</username>
+      </createdBy>
+      <organisationUnitGroups>
+        <organisationUnitGroup id="nwQbMeALRjL"/>
+        <organisationUnitGroup id="PvuaP6YALSA"/>
+        <organisationUnitGroup id="POHZmzofoVx"/>
+        <organisationUnitGroup id="AookYR4ECPH"/>
+      </organisationUnitGroups>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </organisationUnitGroupSet>
+  </organisationUnitGroupSets>
+</metadata>

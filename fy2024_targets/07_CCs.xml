@@ -1,0 +1,1136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<metadata>
+  <system>
+    <id>aaaecc95.us-east-1.pepfar.bao.systems</id>
+    <rev>e590bdc</rev>
+    <version>2.38.2.1-SNAPSHOT</version>
+    <date>2023-02-22T18:47:23.727</date>
+  </system>
+  <categoryCombos>
+    <categoryCombo name="Age (10-17-uk, 2) and Sex (Female)" id="vKBWjLzTDZJ">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>Kyle Pittleman</displayName>
+        <name>Kyle Pittleman</name>
+        <id>eTi8UVJwHfF</id>
+        <username>kpittleman</username>
+      </createdBy>
+      <categories>
+        <category id="YWlxK78PXQ9"/>
+        <category id="z5yJfr6O3w8"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (10-29, 4), Sex (Female) and DREAMS Primary Complete or Begun" id="kBmJmo8skR0">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>Kyle Pittleman</displayName>
+        <name>Kyle Pittleman</name>
+        <id>eTi8UVJwHfF</id>
+        <username>kpittleman</username>
+      </createdBy>
+      <categories>
+        <category id="gHIIEIjio4o"/>
+        <category id="z5yJfr6O3w8"/>
+        <category id="Q6ybst4LL5t"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (10-50+, 5), New Existing ART, Sex (Female) and HIV Status (Positive)" id="g7H2gf8tCRv">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="FK63UgOIH2K"/>
+        <category id="z5yJfr6O3w8"/>
+        <category id="bUVkiB6QLYZ"/>
+        <category id="Re7KJbTjWxw"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (10-50+, 5) Targets FY24 and Sex" id="hgBcOrt0BNt">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="Re7KJbTjWxw"/>
+        <category id="SEOZOio7f7o"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (10-50+, 5) Targets FY24 and Sex (Female)" id="EN8IOTfUW6l">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>Kyle Pittleman</displayName>
+        <name>Kyle Pittleman</name>
+        <id>eTi8UVJwHfF</id>
+        <username>kpittleman</username>
+      </createdBy>
+      <categories>
+        <category id="z5yJfr6O3w8"/>
+        <category id="Re7KJbTjWxw"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (10-50+, 5) Targets FY24, Sex (Female) and HIV Status (Positive)" id="q8kTAno5OK9">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>Kyle Pittleman</displayName>
+        <name>Kyle Pittleman</name>
+        <id>eTi8UVJwHfF</id>
+        <username>kpittleman</username>
+      </createdBy>
+      <categories>
+        <category id="z5yJfr6O3w8"/>
+        <category id="bUVkiB6QLYZ"/>
+        <category id="Re7KJbTjWxw"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (10-50+, 5) Targets FY24, Sex (Female) and Known Positive / New Pos or Neg" id="stdk7Ic5h8y">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>Kyle Pittleman</displayName>
+        <name>Kyle Pittleman</name>
+        <id>eTi8UVJwHfF</id>
+        <username>kpittleman</username>
+      </createdBy>
+      <categories>
+        <category id="z5yJfr6O3w8"/>
+        <category id="L567Pvhn2WC"/>
+        <category id="Re7KJbTjWxw"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo code="age_10_50_plus_5_sex_female_and_test_results" name="Age (10-50+, 5) Targets FY24, Sex (Female) and Test Results" id="RiEi4kHiyED">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="Re7KJbTjWxw"/>
+        <category id="z5yJfr6O3w8"/>
+        <category id="FokGv0LCTYj"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (10-50+, 5) Targets FY24, Sex (Female), HIV Status (Positive) and New Existing Art with Other" id="aNgr93Tyf2b">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>Kyle Pittleman</displayName>
+        <name>Kyle Pittleman</name>
+        <id>eTi8UVJwHfF</id>
+        <username>kpittleman</username>
+      </createdBy>
+      <categories>
+        <category id="z5yJfr6O3w8"/>
+        <category id="bUVkiB6QLYZ"/>
+        <category id="b1f2qgNkG3s"/>
+        <category id="Re7KJbTjWxw"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;1,1-4-uk, 2), Sex and Result" id="YsrFQ6Ge42q">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="XUBQZatxY5b"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="FokGv0LCTYj"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;1-20-uk, 6), Sex and Program Status" id="KH515hOcUS8">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="R8ay5IoNW1S"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="McLoJJs4bki"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo code="age_1_50_plus_6_sex_and_test_results" name="Age (1-50+, 6), Sex and Test Results" id="tjDnI5JFJ8C">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="Jv0B0pu0hZy"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="FokGv0LCTYj"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo code="age_lt_1_50_plus_7_and_sex" name="Age (&lt;1-50+, 7) and Sex" id="DAIIAyMqd7I">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="SEOZOio7f7o"/>
+        <category id="rhTpgk7GvG6"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;1-50+,  7) and Sex (Male)" id="jij5d9Hp0jI">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="rhTpgk7GvG6"/>
+        <category id="TBpeHECy96a"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;1-50+, 7), Sex and HIV Status (Positive)" id="GLiz4Bhv4Jm">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="SEOZOio7f7o"/>
+        <category id="bUVkiB6QLYZ"/>
+        <category id="rhTpgk7GvG6"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo code="age_lt_1_50_plus_7_sex_and_positive_new_pos_or_neg" name="Age (&lt;1-50+, 7), Sex and Known Positive / New Pos or Neg" id="wHCgfB9TyaP">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="SEOZOio7f7o"/>
+        <category id="L567Pvhn2WC"/>
+        <category id="rhTpgk7GvG6"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;1-50+,  7), Sex, New Existing ART and HIV Status (Positive)" id="TMBVULfJb9z">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="SEOZOio7f7o"/>
+        <category id="FK63UgOIH2K"/>
+        <category id="bUVkiB6QLYZ"/>
+        <category id="rhTpgk7GvG6"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;1-50+, 7), Sex, Test Indication and HIV Status (Positive)" id="O2Eh0eLxe80">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="SEOZOio7f7o"/>
+        <category id="XAbPTrBC8Dg"/>
+        <category id="bUVkiB6QLYZ"/>
+        <category id="rhTpgk7GvG6"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;1-50+-uk, 12) and Sex" id="KD7et9pZCmw">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="hDomCfJSxiQ"/>
+        <category id="SEOZOio7f7o"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;1-50+-uk, 12), Sex and Test Results" id="qKePLJSRLgS">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="hDomCfJSxiQ"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="FokGv0LCTYj"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;15,15+) and Sex" id="k3grWTtJnvC">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>Jorge Queipo</displayName>
+        <name>Jorge Queipo</name>
+        <id>Ipjmc9acNPv</id>
+        <username>jqueipo</username>
+      </createdBy>
+      <categories>
+        <category id="rw5ANWfDSuc"/>
+        <category id="SEOZOio7f7o"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;15,15+), Sex, New Existing ART and HIV Status (Positive)" id="xyPI9PwXxY9">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>Kyle Pittleman</displayName>
+        <name>Kyle Pittleman</name>
+        <id>eTi8UVJwHfF</id>
+        <username>kpittleman</username>
+      </createdBy>
+      <categories>
+        <category id="rw5ANWfDSuc"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="FK63UgOIH2K"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;15,15+-uk, 2), Sex and HIV Status (Positive)" id="kLall2yxA2W">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="fPrE6fiFb5f"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;15,15+-uk, 2), Sex, TB Screen Result, New Existing ART and HIV Status (Positive)" id="isNiYirMRYt">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="fPrE6fiFb5f"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="lmf1Sn72E2b"/>
+        <category id="FK63UgOIH2K"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;15-30+-uk, 3) and Sex (Male)" id="U7JH0RDQvXn">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="cmzvfWNhGN3"/>
+        <category id="TBpeHECy96a"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (15-50+, 4) Targets FY24 and Sex" id="dnyuOip4tVT">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="fo3yQ5lYRPS"/>
+        <category id="SEOZOio7f7o"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (15-50+, 4) Targets FY24, Sex and HIV Status (Positive)" id="j1nK85bJuLV">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="fo3yQ5lYRPS"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (15-50+, 4) Targets FY24, Sex and Test Results" id="mPyO6V4FPCs">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="fo3yQ5lYRPS"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="FokGv0LCTYj"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (15-50+, 4) Targets FY24, Sex (Male) and HIV Status (Inc Unknown)" id="DNJnQpygKJP">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="fo3yQ5lYRPS"/>
+        <category id="TBpeHECy96a"/>
+        <category id="kZfd98pN3ad"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (&lt;1-65+-uk-nme, 16), Sex and HIV Status (Positive)" id="HZtrVMo9031">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="SEOZOio7f7o"/>
+        <category id="bUVkiB6QLYZ"/>
+        <category id="HmRS4b1BbUD"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (18+), Sex and Program Status" id="H0W67wrICM4">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>Kyle Pittleman</displayName>
+        <name>Kyle Pittleman</name>
+        <id>eTi8UVJwHfF</id>
+        <username>kpittleman</username>
+      </createdBy>
+      <categories>
+        <category id="lfTeZdw4p8a"/>
+        <category id="SEOZOio7f7o"/>
+        <category id="McLoJJs4bki"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo code="age_25_49_2_sex_female_and_hiv_positive" name="Age (25-49, 2), Sex (Female) and HIV Status (Positive)" id="OOMqwrdG2hy">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="CE7P54QP3KB"/>
+        <category id="z5yJfr6O3w8"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Age (5-14-uk,2) and Sex" id="pwqXbZ5FEfY">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>Kyle Pittleman</displayName>
+        <name>Kyle Pittleman</name>
+        <id>eTi8UVJwHfF</id>
+        <username>kpittleman</username>
+      </createdBy>
+      <categories>
+        <category id="Yd9NkTBqDpB"/>
+        <category id="SEOZOio7f7o"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="default" id="bjDvmb4bfuf">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>Jim Grace</displayName>
+        <name>Jim Grace</name>
+        <id>kwwcGq36yOZ</id>
+        <username>jimgrace</username>
+      </createdBy>
+      <categories>
+        <category id="GLevLNI9wkl"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Infant Age (2,2-12)" id="hVswD64LbtW">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>Jorge Queipo</displayName>
+        <name>Jorge Queipo</name>
+        <id>Ipjmc9acNPv</id>
+        <username>jqueipo</username>
+      </createdBy>
+      <categories>
+        <category id="tX6vva5HMZ6"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Key Populations v3" id="dxZWNGz93Js">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="VCCs1f22cOR"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Key Populations v3 and HIV Status (Positive)" id="JQvyWrTQJlo">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="VCCs1f22cOR"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Key Populations v3 and Test Results" id="DVHGosLpTY9">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="VCCs1f22cOR"/>
+        <category id="FokGv0LCTYj"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Known Positive / New Pos or Neg" id="Ph8cPUi9xnq">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="L567Pvhn2WC"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="New Existing Art with Other" id="ilNqFtODuSA">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="b1f2qgNkG3s"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Sex" id="R1rzmp9ROky">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>Jorge Queipo</displayName>
+        <name>Jorge Queipo</name>
+        <id>Ipjmc9acNPv</id>
+        <username>jqueipo</username>
+      </createdBy>
+      <categories>
+        <category id="SEOZOio7f7o"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Sex and HIV Status (Positive)" id="SVbXafGUSLR">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="SEOZOio7f7o"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Sex (Male)" id="LsgnOK6g1Wg">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="TBpeHECy96a"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Test Indication and HIV Status (Positive)" id="Z6bx6CrPFl0">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="RLo1KuW6bDX"/>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo name="Test Results (Positive)" id="gAIYJMsN6Xu">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="bUVkiB6QLYZ"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+    <categoryCombo code="Violence Service Type v2" name="Violence Service Type v2" id="c7bzLBhaiPQ">
+      <dataDimensionType>DISAGGREGATION</dataDimensionType>
+      <skipTotal>false</skipTotal>
+      <createdBy>
+        <displayName>BAO Admin</displayName>
+        <name>BAO Admin</name>
+        <id>emeQ7kjx8Ve</id>
+        <username>bao-admin</username>
+      </createdBy>
+      <categories>
+        <category id="GPZcq6IewcP"/>
+      </categories>
+      <attributeValues>
+        <attributeValue>
+          <value>SGACPublicAffairs@state.gov</value>
+          <attribute id="mOITVltKxDP"/>
+        </attributeValue>
+        <attributeValue>
+          <value>PEPFAR</value>
+          <attribute id="H5eprkl0cdi"/>
+        </attributeValue>
+      </attributeValues>
+    </categoryCombo>
+  </categoryCombos>
+</metadata>
