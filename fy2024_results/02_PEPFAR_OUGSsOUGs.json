@@ -1,0 +1,95 @@
+{
+    "organisationUnitGroupSets": [
+        {
+            "attributeValues": [],
+            "compulsory": true,
+            "created": "2015-04-06T09:24:36.181",
+            "createdBy": {
+                "code": null,
+                "displayName": "Lars Helge \u00d8verland",
+                "id": "YDfPt80iOQp",
+                "name": "Lars Helge \u00d8verland",
+                "username": "lars"
+            },
+            "dataDimension": true,
+            "description": "Type of organisational unit",
+            "id": "mINJi7rR1a6",
+            "includeSubhierarchyInAnalytics": false,
+            "lastUpdated": "2020-12-04T03:41:58.139",
+            "lastUpdatedBy": {
+                "code": null,
+                "displayName": "Ben Guaraldi",
+                "id": "KxdQZCgLyCk",
+                "name": "Ben Guaraldi",
+                "username": "ben"
+            },
+            "name": "Type of organisational unit",
+            "organisationUnitGroups": [
+                {
+                    "id": "nwQbMeALRjL"
+                },
+                {
+                    "id": "PvuaP6YALSA"
+                },
+                {
+                    "id": "POHZmzofoVx"
+                },
+                {
+                    "id": "AookYR4ECPH"
+                }
+            ],
+            "sharing": {
+                "external": false,
+                "owner": "YDfPt80iOQp",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Type of organisational unit"
+        }
+    ],
+    "organisationUnitGroups": [
+        {
+            "attributeValues": [],
+            "code": "COMMUNITY",
+            "id": "PvuaP6YALSA",
+            "name": "Community",
+            "shortName": "Community",
+            "symbol": "11.png"
+        },
+        {
+            "attributeValues": [],
+            "code": "COUNTRY",
+            "id": "cNzfcPWEGSH",
+            "name": "Country",
+            "shortName": "Country"
+        },
+        {
+            "attributeValues": [],
+            "code": "FACILITY",
+            "id": "POHZmzofoVx",
+            "name": "Facility",
+            "shortName": "Facility",
+            "symbol": "21.png"
+        },
+        {
+            "attributeValues": [],
+            "code": "MILITARY",
+            "id": "nwQbMeALRjL",
+            "name": "Military",
+            "shortName": "Military"
+        },
+        {
+            "code": "OTHER_OU_TYPE",
+            "id": "AookYR4ECPH",
+            "name": "Other organisation unit type",
+            "shortName": "Other organisation unit type"
+        }
+    ],
+    "system": {
+        "date": "2024-01-22T19:35:27.620+0000",
+        "id": "2707b23e.use1.ee95f1a33e9a.bao.systems",
+        "rev": "db15b78",
+        "version": "2.40.2"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "indicatorTypes": [
+        {
+            "factor": 1,
+            "id": "QEjvmP5XVSn",
+            "name": "Number",
+            "number": true,
+            "translations": []
+        },
+        {
+            "factor": 100,
+            "id": "TcQNjn6Mx4h",
+            "name": "Percentage",
+            "number": false,
+            "translations": []
+        },
+        {
+            "factor": 1,
+            "id": "uarlCLt2NF7",
+            "name": "Ratio",
+            "number": false,
+            "translations": []
+        }
+    ],
+    "system": {
+        "date": "2024-01-22T19:49:10.066+0000",
+        "id": "2707b23e.use1.ee95f1a33e9a.bao.systems",
+        "rev": "db15b78",
+        "version": "2.40.2"
+    }
+}
